@@ -1,1 +1,6003 @@
 
+[
+  {
+    "question": "Which Babylonian king is famous for compiling one of the earliest complete legal codes in history?",
+    "options": [
+      "Nebuchadnezzar II",
+      "Hammurabi",
+      "Sargon of Akkad",
+      "Ashurbanipal"
+    ],
+    "correctAnswer": "Hammurabi"
+  },
+  {
+    "question": "The ancient city of Mohenjo-Daro was a major urban center of which civilization?",
+    "options": [
+      "Minoan Civilization",
+      "Indus Valley Civilization",
+      "Sumerian Civilization",
+      "Nok Culture"
+    ],
+    "correctAnswer": "Indus Valley Civilization"
+  },
+  {
+    "question": "Who was the first emperor of a unified China, founding the Qin dynasty in 221 BCE?",
+    "options": [
+      "Emperor Wu of Han",
+      "Qin Shi Huang",
+      "Tang Taizong",
+      "Han Gaozu"
+    ],
+    "correctAnswer": "Qin Shi Huang"
+  },
+  {
+    "question": "Which battle in 490 BCE saw the Athenian army defeat the invading Persian forces of King Darius I?",
+    "options": [
+      "Battle of Thermopylae",
+      "Battle of Salamis",
+      "Battle of Marathon",
+      "Battle of Plataea"
+    ],
+    "correctAnswer": "Battle of Marathon"
+  },
+  {
+    "question": "What was the capital of the Byzantine Empire from its founding in 330 CE until its fall in 1453?",
+    "options": [
+      "Rome",
+      "Ravenna",
+      "Constantinople",
+      "Antioch"
+    ],
+    "correctAnswer": "Constantinople"
+  },
+  {
+    "question": "Which Mesoamerican civilization constructed the prominent city of Tikal in present-day Guatemala?",
+    "options": [
+      "Aztec",
+      "Maya",
+      "Zapotec",
+      "Olmec"
+    ],
+    "correctAnswer": "Maya"
+  },
+  {
+    "question": "The Rosetta Stone, discovered in 1799, contained text in Ancient Greek, Demotic script, and which other script?",
+    "options": [
+      "Hieroglyphs",
+      "Cuneiform",
+      "Phoenician",
+      "Aramaic"
+    ],
+    "correctAnswer": "Hieroglyphs"
+  },
+  {
+    "question": "Which Roman general defeated Hannibal Barca at the Battle of Zama in 202 BCE?",
+    "options": [
+      "Julius Caesar",
+      "Scipio Africanus",
+      "Sulla",
+      "Gnaeus Pompeius"
+    ],
+    "correctAnswer": "Scipio Africanus"
+  },
+  {
+    "question": "The Peace of Westphalia in 1648 brought an end to which major European conflict?",
+    "options": [
+      "Hundred Years' War",
+      "Seven Years' War",
+      "Thirty Years' War",
+      "War of the Spanish Succession"
+    ],
+    "correctAnswer": "Thirty Years' War"
+  },
+  {
+    "question": "Who united the nomadic tribes of Northeast Asia to found the Mongol Empire in 1206?",
+    "options": [
+      "Kublai Khan",
+      "Genghis Khan",
+      "Ogedei Khan",
+      "Hulagu Khan"
+    ],
+    "correctAnswer": "Genghis Khan"
+  },
+  {
+    "question": "Which pharaoh attempted to introduce monotheistic worship to ancient Egypt focused on the sun disc Aten?",
+    "options": [
+      "Ramesses II",
+      "Akhenaten",
+      "Thutmose III",
+      "Tutankhamun"
+    ],
+    "correctAnswer": "Akhenaten"
+  },
+  {
+    "question": "The ancient city-state of Carthage was located in the territory of which modern-day country?",
+    "options": [
+      "Egypt",
+      "Tunisia",
+      "Morocco",
+      "Lebanon"
+    ],
+    "correctAnswer": "Tunisia"
+  },
+  {
+    "question": "Which major conflict fought between 431 and 404 BCE pitted Athens against Sparta?",
+    "options": [
+      "Persian Wars",
+      "Peloponnesian War",
+      "Punic Wars",
+      "Diadochi Wars"
+    ],
+    "correctAnswer": "Peloponnesian War"
+  },
+  {
+    "question": "What famous ancient trade network connected Chang'an in China with the Mediterranean world?",
+    "options": [
+      "Incense Route",
+      "Amber Road",
+      "Silk Road",
+      "Trans-Saharan Route"
+    ],
+    "correctAnswer": "Silk Road"
+  },
+  {
+    "question": "Which ruler of the Maurya Empire renounced military conquest and embraced Buddhism after the Kalinga War?",
+    "options": [
+      "Chandragupta Maurya",
+      "Ashoka the Great",
+      "Bindusara",
+      "Harsha"
+    ],
+    "correctAnswer": "Ashoka the Great"
+  },
+  {
+    "question": "The Magna Carta was issued by King John of England at Runnymede in which year?",
+    "options": [
+      "1066",
+      "1215",
+      "1314",
+      "1415"
+    ],
+    "correctAnswer": "1215"
+  },
+  {
+    "question": "Which ancient Sumerian city is considered one of the earliest urban settlements, famed for its ruler Gilgamesh?",
+    "options": [
+      "Uruk",
+      "Babylon",
+      "Nineveh",
+      "Susa"
+    ],
+    "correctAnswer": "Uruk"
+  },
+  {
+    "question": "Which Mesoamerican empire built its capital city, Tenochtitlan, on an island in Lake Texcoco?",
+    "options": [
+      "Inca Empire",
+      "Aztec Empire",
+      "Maya Empire",
+      "Toltec Empire"
+    ],
+    "correctAnswer": "Aztec Empire"
+  },
+  {
+    "question": "In 1453, which Ottoman Sultan conquered Constantinople, bringing an end to the Byzantine Empire?",
+    "options": [
+      "Suleiman the Magnificent",
+      "Mehmed II",
+      "Selim I",
+      "Osman I"
+    ],
+    "correctAnswer": "Mehmed II"
+  },
+  {
+    "question": "The ancient Kingdom of Aksum was a powerful trading empire located primarily in which modern region?",
+    "options": [
+      "Ethiopia and Eritrea",
+      "Nigeria and Ghana",
+      "Zimbabwe and Mozambique",
+      "Tunisia and Libya"
+    ],
+    "correctAnswer": "Ethiopia and Eritrea"
+  },
+  {
+    "question": "Which naval battle in 31 BCE resulted in the defeat of Mark Antony and Cleopatra by Octavian?",
+    "options": [
+      "Battle of Actium",
+      "Battle of Lepanto",
+      "Battle of Salamis",
+      "Battle of Cape Ecnomus"
+    ],
+    "correctAnswer": "Battle of Actium"
+  },
+  {
+    "question": "The Bronze Age Minoan civilization flourished on which Mediterranean island?",
+    "options": [
+      "Sicily",
+      "Crete",
+      "Rhodes",
+      "Cyprus"
+    ],
+    "correctAnswer": "Crete"
+  },
+  {
+    "question": "Which English monarch initiated the English Reformation by breaking away from the Roman Catholic Church?",
+    "options": [
+      "Henry V",
+      "Henry VIII",
+      "Edward VI",
+      "James I"
+    ],
+    "correctAnswer": "Henry VIII"
+  },
+  {
+    "question": "What was the capital city of the Inca Empire, situated in the Andes Mountains of Peru?",
+    "options": [
+      "Machu Picchu",
+      "Cusco",
+      "Tiahuanaco",
+      "Chan Chan"
+    ],
+    "correctAnswer": "Cusco"
+  },
+  {
+    "question": "The Cyrus Cylinder, recorded after the conquest of Babylon, was produced by the ruler of which empire?",
+    "options": [
+      "Assyrian Empire",
+      "Achaemenid Persian Empire",
+      "Neo-Babylonian Empire",
+      "Macedonian Empire"
+    ],
+    "correctAnswer": "Achaemenid Persian Empire"
+  },
+  {
+    "question": "Which King of the Franks was crowned Emperor of the Romans by Pope Leo III on Christmas Day in 800 CE?",
+    "options": [
+      "Charles Martel",
+      "Charlemagne",
+      "Clovis I",
+      "Pepin the Short"
+    ],
+    "correctAnswer": "Charlemagne"
+  },
+  {
+    "question": "The Olmec civilization, famous for carving colossal stone heads, developed in which present-day nation?",
+    "options": [
+      "Mexico",
+      "Peru",
+      "Guatemala",
+      "Colombia"
+    ],
+    "correctAnswer": "Mexico"
+  },
+  {
+    "question": "Which battle in 1066 led to William the Conqueror securing control over England?",
+    "options": [
+      "Battle of Stamford Bridge",
+      "Battle of Hastings",
+      "Battle of Agincourt",
+      "Battle of Bannockburn"
+    ],
+    "correctAnswer": "Battle of Hastings"
+  },
+  {
+    "question": "Who was the female pharaoh of the Eighteenth Dynasty who led successful trade expeditions to Punt?",
+    "options": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Cleopatra VII",
+      "Sobekneferu"
+    ],
+    "correctAnswer": "Hatshepsut"
+  },
+  {
+    "question": "The ancient Library of Alexandria was founded in Egypt during the reign of which Hellenistic royal dynasty?",
+    "options": [
+      "Seleucid Dynasty",
+      "Ptolemaic Dynasty",
+      "Antigonid Dynasty",
+      "Attalid Dynasty"
+    ],
+    "correctAnswer": "Ptolemaic Dynasty"
+  },
+  {
+    "question": "Which 1494 treaty divided newly discovered non-European lands between Spain and Portugal?",
+    "options": [
+      "Treaty of Westphalia",
+      "Treaty of Tordesillas",
+      "Treaty of Utrecht",
+      "Treaty of Zaragoza"
+    ],
+    "correctAnswer": "Treaty of Tordesillas"
+  },
+  {
+    "question": "Which iconic fortified citadel overlooks the city of Athens and houses the Parthenon?",
+    "options": [
+      "Acropolis",
+      "Agora",
+      "Delphi",
+      "Epidaurus"
+    ],
+    "correctAnswer": "Acropolis"
+  },
+  {
+    "question": "The mountain estate of Machu Picchu was constructed during the reign of which Inca emperor?",
+    "options": [
+      "Atahualpa",
+      "Pachacuti",
+      "Huascar",
+      "Tupac Yupanqui"
+    ],
+    "correctAnswer": "Pachacuti"
+  },
+  {
+    "question": "Which Persian king established the extensive Royal Road system to facilitate empire-wide communication?",
+    "options": [
+      "Cyrus the Great",
+      "Darius I",
+      "Xerxes I",
+      "Artaxerxes I"
+    ],
+    "correctAnswer": "Darius I"
+  },
+  {
+    "question": "The ancient Hittite Empire, notable for early iron metallurgy and chariot warfare, was centered in which region?",
+    "options": [
+      "Anatolia",
+      "Levant",
+      "Mesopotamia",
+      "Balkans"
+    ],
+    "correctAnswer": "Anatolia"
+  },
+  {
+    "question": "What major pandemic devastated Afro-Eurasia in the mid-14th century, killing tens of millions?",
+    "options": [
+      "Justinian Plague",
+      "Black Death",
+      "Antonine Plague",
+      "Cocoliztli Epidemic"
+    ],
+    "correctAnswer": "Black Death"
+  },
+  {
+    "question": "What wedge-shaped writing system on clay tablets was developed by the ancient Sumerians?",
+    "options": [
+      "Hieratic",
+      "Cuneiform",
+      "Linear B",
+      "Phoenician Alphabet"
+    ],
+    "correctAnswer": "Cuneiform"
+  },
+  {
+    "question": "Which Roman Emperor issued the Edict of Milan in 313 CE, legalizing Christianity across the empire?",
+    "options": [
+      "Theodosius I",
+      "Constantine the Great",
+      "Marcus Aurelius",
+      "Trajan"
+    ],
+    "correctAnswer": "Constantine the Great"
+  },
+  {
+    "question": "The ancient city of Persepolis served as a ceremonial capital for which empire?",
+    "options": [
+      "Achaemenid Persian Empire",
+      "Parthian Empire",
+      "Sasanian Empire",
+      "Seleucid Empire"
+    ],
+    "correctAnswer": "Achaemenid Persian Empire"
+  },
+  {
+    "question": "Which ancient Chinese dynasty is the earliest supported by rich archaeological and written oracle bone records?",
+    "options": [
+      "Xia Dynasty",
+      "Shang Dynasty",
+      "Zhou Dynasty",
+      "Han Dynasty"
+    ],
+    "correctAnswer": "Shang Dynasty"
+  },
+  {
+    "question": "The Battle of Tours in 732 CE, where Charles Martel halted Umayyad expansion, occurred in modern-day:",
+    "options": [
+      "Spain",
+      "France",
+      "Italy",
+      "Germany"
+    ],
+    "correctAnswer": "France"
+  },
+  {
+    "question": "What historical region's name translates from Greek as 'land between rivers'?",
+    "options": [
+      "Anatolia",
+      "Mesopotamia",
+      "Peloponnese",
+      "Levant"
+    ],
+    "correctAnswer": "Mesopotamia"
+  },
+  {
+    "question": "Which Swedish military commander and king played a decisive role in the Thirty Years' War before dying at Lützen?",
+    "options": [
+      "Charles XII",
+      "Gustavus Adolphus",
+      "Christian IV",
+      "Eric XIV"
+    ],
+    "correctAnswer": "Gustavus Adolphus"
+  },
+  {
+    "question": "The monumental structures of Great Zimbabwe were constructed primarily out of dry stone without using what?",
+    "options": [
+      "Granite",
+      "Mortar",
+      "Scaffolding",
+      "Levers"
+    ],
+    "correctAnswer": "Mortar"
+  },
+  {
+    "question": "Which famous Carthaginian general famously crossed the Alps with war elephants during the Second Punic War?",
+    "options": [
+      "Hamilcar Barca",
+      "Hannibal Barca",
+      "Hasdrubal",
+      "Mago"
+    ],
+    "correctAnswer": "Hannibal Barca"
+  },
+  {
+    "question": "The Council of Trent (1545–1563) was a central component of which Catholic movement?",
+    "options": [
+      "Protestant Reformation",
+      "Counter-Reformation",
+      "Avignon Papacy",
+      "Great Schism"
+    ],
+    "correctAnswer": "Counter-Reformation"
+  },
+  {
+    "question": "Which prominent statesman oversaw the Golden Age of Athens and the construction of the Parthenon?",
+    "options": [
+      "Solon",
+      "Pericles",
+      "Cleisthenes",
+      "Themistocles"
+    ],
+    "correctAnswer": "Pericles"
+  },
+  {
+    "question": "What military formation utilizing long pikes called sarissas was developed by Philip II of Macedon?",
+    "options": [
+      "Testudo",
+      "Macedonian Phalanx",
+      "Cohort",
+      "Hoplite Wall"
+    ],
+    "correctAnswer": "Macedonian Phalanx"
+  },
+  {
+    "question": "Which pre-Columbian culture created massive geoglyphs carved into the desert floor in southern Peru?",
+    "options": [
+      "Nazca Culture",
+      "Moche Culture",
+      "Chavin Culture",
+      "Wari Culture"
+    ],
+    "correctAnswer": "Nazca Culture"
+  },
+  {
+    "question": "The fall of Granada in 1492 marked the conclusion of which centuries-long effort on the Iberian Peninsula?",
+    "options": [
+      "Albigensian Crusade",
+      "Reconquista",
+      "Peninsular War",
+      "War of the Portuguese Succession"
+    ],
+    "correctAnswer": "Reconquista"
+  },
+  {
+    "question": "What is the SI unit of magnetic flux density?",
+    "options": [
+      "Tesla",
+      "Weber",
+      "Henry",
+      "Gauss"
+    ],
+    "correctAnswer": "Tesla"
+  },
+  {
+    "question": "Which chemical element has the highest electronegativity value on the Pauling scale?",
+    "options": [
+      "Chlorine",
+      "Fluorine",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correctAnswer": "Fluorine"
+  },
+  {
+    "question": "What natural phenomenon is primarily responsible for the generation of the Aurora Borealis?",
+    "options": [
+      "Solar wind particles colliding with atmospheric gases",
+      "Earth's oceanic currents reflecting sunlight",
+      "Volcanic ash charging the ionosphere",
+      "Cosmic rays hitting ozone molecules"
+    ],
+    "correctAnswer": "Solar wind particles colliding with atmospheric gases"
+  },
+  {
+    "question": "Which elementary particle acts as the exchange particle (or gauge boson) for the strong nuclear force?",
+    "options": [
+      "Photon",
+      "Gluon",
+      "W Boson",
+      "Graviton"
+    ],
+    "correctAnswer": "Gluon"
+  },
+  {
+    "question": "What is the chemical formula for heavy water?",
+    "options": [
+      "H2O2",
+      "D2O",
+      "T2O",
+      "H2SO4"
+    ],
+    "correctAnswer": "D2O"
+  },
+  {
+    "question": "Which scale is used to rate tornado intensity based on the severity of the damage caused?",
+    "options": [
+      "Richter Scale",
+      "Saffir-Simpson Scale",
+      "Enhanced Fujita Scale",
+      "VEI Scale"
+    ],
+    "correctAnswer": "Enhanced Fujita Scale"
+  },
+  {
+    "question": "According to quantum mechanics, what principle states that no two identical fermions can occupy the same quantum state simultaneously?",
+    "options": [
+      "Heisenberg Uncertainty Principle",
+      "Pauli Exclusion Principle",
+      "Aufbau Principle",
+      "Hund's Rule"
+    ],
+    "correctAnswer": "Pauli Exclusion Principle"
+  },
+  {
+    "question": "Which non-metallic element exists as a liquid at standard temperature and pressure?",
+    "options": [
+      "Mercury",
+      "Bromine",
+      "Iodine",
+      "Chlorine"
+    ],
+    "correctAnswer": "Bromine"
+  },
+  {
+    "question": "What primary force drives the generation of ocean tides on Earth?",
+    "options": [
+      "Earth's magnetic field",
+      "Gravitational pull of the Moon and Sun",
+      "Coriolis effect",
+      "Atmospheric pressure gradients"
+    ],
+    "correctAnswer": "Gravitational pull of the Moon and Sun"
+  },
+  {
+    "question": "What is the approximate speed of light in a vacuum?",
+    "options": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "1,000,000 km/s",
+      "30,000 km/s"
+    ],
+    "correctAnswer": "300,000 km/s"
+  },
+  {
+    "question": "Which carbon allotrope consists of a single layer of carbon atoms arranged in a two-dimensional hexagonal lattice?",
+    "options": [
+      "Graphite",
+      "Diamond",
+      "Graphene",
+      "Fullerene"
+    ],
+    "correctAnswer": "Graphene"
+  },
+  {
+    "question": "What type of organism is primarily responsible for the oceanic natural phenomenon known as 'red tides'?",
+    "options": [
+      "Dinoflagellates",
+      "Cyanobacteria",
+      "Diatoms",
+      "Sargassum"
+    ],
+    "correctAnswer": "Dinoflagellates"
+  },
+  {
+    "question": "Which law states that the current through a conductor between two points is directly proportional to the voltage across those points?",
+    "options": [
+      "Ampere's Law",
+      "Ohm's Law",
+      "Faraday's Law",
+      "Kirchhoff's Law"
+    ],
+    "correctAnswer": "Ohm's Law"
+  },
+  {
+    "question": "What term describes a chemical reaction that absorbs thermal energy from its surroundings?",
+    "options": [
+      "Exothermic",
+      "Endothermic",
+      "Isothermal",
+      "Athermal"
+    ],
+    "correctAnswer": "Endothermic"
+  },
+  {
+    "question": "Which type of cloud is characterized by a uniform featureless gray layer and often produces light precipitation?",
+    "options": [
+      "Cumulonimbus",
+      "Cirrus",
+      "Stratus",
+      "Altocumulus"
+    ],
+    "correctAnswer": "Stratus"
+  },
+  {
+    "question": "In particle physics, which particle is considered the force carrier for the electromagnetic interaction?",
+    "options": [
+      "Electron",
+      "Photon",
+      "Z boson",
+      "Neutrino"
+    ],
+    "correctAnswer": "Photon"
+  },
+  {
+    "question": "What acid is the main acid found in human stomach juice?",
+    "options": [
+      "Sulfuric acid",
+      "Nitric acid",
+      "Hydrochloric acid",
+      "Acetic acid"
+    ],
+    "correctAnswer": "Hydrochloric acid"
+  },
+  {
+    "question": "What optical phenomenon creates bright spots of light on either side of the Sun, often caused by ice crystals in the atmosphere?",
+    "options": [
+      "Parhelion (Sun Dog)",
+      "Glory",
+      "Corona",
+      "Light Pillar"
+    ],
+    "correctAnswer": "Parhelion (Sun Dog)"
+  },
+  {
+    "question": "Which thermodynamic process occurs at a constant pressure?",
+    "options": [
+      "Isochoric",
+      "Isobaric",
+      "Isothermal",
+      "Adiabatic"
+    ],
+    "correctAnswer": "Isobaric"
+  },
+  {
+    "question": "Which metal has the highest thermal conductivity of all pure metals?",
+    "options": [
+      "Copper",
+      "Gold",
+      "Silver",
+      "Aluminum"
+    ],
+    "correctAnswer": "Silver"
+  },
+  {
+    "question": "What is the term for the point on the Earth's surface directly above an earthquake's focus (hypocenter)?",
+    "options": [
+      "Fault line",
+      "Epicenter",
+      "Subduction point",
+      "Seismic zone"
+    ],
+    "correctAnswer": "Epicenter"
+  },
+  {
+    "question": "What is the rest mass energy of an electron, expressed in megaelectronvolts (MeV)?",
+    "options": [
+      "0.511 MeV",
+      "938.3 MeV",
+      "1.008 MeV",
+      "125.1 MeV"
+    ],
+    "correctAnswer": "0.511 MeV"
+  },
+  {
+    "question": "What is the oxidation state of oxygen in hydrogen peroxide (H2O2)?",
+    "options": [
+      "-2",
+      "-1",
+      "0",
+      "+1"
+    ],
+    "correctAnswer": "-1"
+  },
+  {
+    "question": "What physical phenomenon causes 'St. Elmo's Fire', a glowing light seen on pointy objects during storms?",
+    "options": [
+      "Triboluminescence",
+      "Coronal discharge",
+      "Chemiluminescence",
+      "Phosphorescence"
+    ],
+    "correctAnswer": "Coronal discharge"
+  },
+  {
+    "question": "What wave phenomenon causes a shift in observed frequency when a wave source moves relative to an observer?",
+    "options": [
+      "Refraction",
+      "Diffraction",
+      "Doppler Effect",
+      "Raman Effect"
+    ],
+    "correctAnswer": "Doppler Effect"
+  },
+  {
+    "question": "What hydrocarbon gas is the main component of natural gas?",
+    "options": [
+      "Ethane",
+      "Propane",
+      "Methane",
+      "Butane"
+    ],
+    "correctAnswer": "Methane"
+  },
+  {
+    "question": "In radioactive decay, what process transforms a neutron into a proton, emitting an electron and an electron antineutrino?",
+    "options": [
+      "Alpha decay",
+      "Beta-minus decay",
+      "Gamma decay",
+      "Positron emission"
+    ],
+    "correctAnswer": "Beta-minus decay"
+  },
+  {
+    "question": "Which main element is alloyed with copper to produce bronze?",
+    "options": [
+      "Zinc",
+      "Tin",
+      "Nickel",
+      "Lead"
+    ],
+    "correctAnswer": "Tin"
+  },
+  {
+    "question": "What apparent deflection of moving objects is caused by Earth's rotation on its axis?",
+    "options": [
+      "Magnus Effect",
+      "Coriolis Effect",
+      "Meissner Effect",
+      "Venturi Effect"
+    ],
+    "correctAnswer": "Coriolis Effect"
+  },
+  {
+    "question": "What is the theoretical minimum speed needed for a non-propelled object to escape the gravitational influence of Earth?",
+    "options": [
+      "7.9 km/s",
+      "11.2 km/s",
+      "42.1 km/s",
+      "29.8 km/s"
+    ],
+    "correctAnswer": "11.2 km/s"
+  },
+  {
+    "question": "What pH value represents a neutral aqueous solution at standard 25°C conditions?",
+    "options": [
+      "0",
+      "5",
+      "7",
+      "14"
+    ],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "What physical process causes light to bend when it passes from one transparent medium to another of different density?",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Dispersion"
+    ],
+    "correctAnswer": "Refraction"
+  },
+  {
+    "question": "Which halogen element is a solid at room temperature and standard pressure?",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Bromine",
+      "Iodine"
+    ],
+    "correctAnswer": "Iodine"
+  },
+  {
+    "question": "What term refers to a volcanic mudflow composed of a mixture of water, rock fragments, and volcanic ash?",
+    "options": [
+      "Pyroclastic flow",
+      "Lahar",
+      "Tephra",
+      "Pumice"
+    ],
+    "correctAnswer": "Lahar"
+  },
+  {
+    "question": "Which standard SI derived unit is used to measure electrical capacitance?",
+    "options": [
+      "Ohm",
+      "Farad",
+      "Henry",
+      "Tesla"
+    ],
+    "correctAnswer": "Farad"
+  },
+  {
+    "question": "What chemical compound is commonly marketed under the brand name Teflon?",
+    "options": [
+      "Polyethylene",
+      "Polytetrafluoroethylene",
+      "Polyvinyl chloride",
+      "Polypropylene"
+    ],
+    "correctAnswer": "Polytetrafluoroethylene"
+  },
+  {
+    "question": "What atmosphere layer contains roughly 75% of the atmosphere's mass and almost all water vapor?",
+    "options": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correctAnswer": "Troposphere"
+  },
+  {
+    "question": "Absolute zero temperature is equivalent to which value on the Celsius scale?",
+    "options": [
+      "-273.15 °C",
+      "-212.00 °C",
+      "-459.67 °C",
+      "-300.00 °C"
+    ],
+    "correctAnswer": "-273.15 °C"
+  },
+  {
+    "question": "Which noble gas is famous for emitting a characteristic reddish-orange light in high-voltage glow discharge tubes?",
+    "options": [
+      "Helium",
+      "Neon",
+      "Argon",
+      "Krypton"
+    ],
+    "correctAnswer": "Neon"
+  },
+  {
+    "question": "What phenomenon occurs when light waves spread out after passing through a narrow aperture or around an obstacle?",
+    "options": [
+      "Polarization",
+      "Refraction",
+      "Diffraction",
+      "Scattering"
+    ],
+    "correctAnswer": "Diffraction"
+  },
+  {
+    "question": "What chemical name is given to the hydrated iron(III) oxide commonly known as rust?",
+    "options": [
+      "FeO",
+      "Fe2O3·nH2O",
+      "Fe3O4",
+      "FeSO4"
+    ],
+    "correctAnswer": "Fe2O3·nH2O"
+  },
+  {
+    "question": "What is the center of a tropical storm or hurricane called, characterized by light winds and fair weather?",
+    "options": [
+      "Eye",
+      "Eyewall",
+      "Rainband",
+      "VORTEX"
+    ],
+    "correctAnswer": "Eye"
+  },
+  {
+    "question": "Which fundamental interaction in nature holds quarks together to form protons and neutrons?",
+    "options": [
+      "Gravitational force",
+      "Weak force",
+      "Electromagnetic force",
+      "Strong force"
+    ],
+    "correctAnswer": "Strong force"
+  },
+  {
+    "question": "What are atoms of the same chemical element that have different numbers of neutrons called?",
+    "options": [
+      "Isomers",
+      "Isotopes",
+      "Allotropes",
+      "Isobars"
+    ],
+    "correctAnswer": "Isotopes"
+  },
+  {
+    "question": "What temperature scale sets the triple point of water at precisely 273.16 units?",
+    "options": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Rankine"
+    ],
+    "correctAnswer": "Kelvin"
+  },
+  {
+    "question": "What natural geological structure is created when soluble rocks such as limestone collapse underground?",
+    "options": [
+      "Esker",
+      "Sinkhole",
+      "Fjord",
+      "Moraine"
+    ],
+    "correctAnswer": "Sinkhole"
+  },
+  {
+    "question": "Which law of thermodynamics states that entropy of a isolated system always increases over time?",
+    "options": [
+      "Zeroth Law",
+      "First Law",
+      "Second Law",
+      "Third Law"
+    ],
+    "correctAnswer": "Second Law"
+  },
+  {
+    "question": "What substance is added to commercial natural gas to give it a distinct smell for leak detection?",
+    "options": [
+      "Mercaptan",
+      "Methane",
+      "Benzene",
+      "Ammonia"
+    ],
+    "correctAnswer": "Mercaptan"
+  },
+  {
+    "question": "What term describes the boundary around a black hole beyond which light cannot escape?",
+    "options": [
+      "Accretion disk",
+      "Photon sphere",
+      "Event horizon",
+      "Singularity"
+    ],
+    "correctAnswer": "Event horizon"
+  },
+  {
+    "question": "Which light phenomenon explains why the sky appears blue during the daytime?",
+    "options": [
+      "Rayleigh scattering",
+      "Mie scattering",
+      "Compton scattering",
+      "Raman scattering"
+    ],
+    "correctAnswer": "Rayleigh scattering"
+  },
+  {
+    "question": "Which cell organelle contains acid hydrolase enzymes responsible for breaking down cellular waste?",
+    "options": [
+      "Lysosome",
+      "Peroxisome",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": "Lysosome"
+  },
+  {
+    "question": "The gymnosperm Welwitschia mirabilis, which grows only two leaves throughout its entire life, is native to which desert?",
+    "options": [
+      "Atacama Desert",
+      "Namib Desert",
+      "Gobi Desert",
+      "Mojave Desert"
+    ],
+    "correctAnswer": "Namib Desert"
+  },
+  {
+    "question": "What is the largest living species of turtle in the world?",
+    "options": [
+      "Galapagos giant tortoise",
+      "Green sea turtle",
+      "Leatherback sea turtle",
+      "Alligator snapping turtle"
+    ],
+    "correctAnswer": "Leatherback sea turtle"
+  },
+  {
+    "question": "Which iron-containing protein is responsible for transporting oxygen in human red blood cells?",
+    "options": [
+      "Myoglobin",
+      "Hemoglobin",
+      "Hemocyanin",
+      "Transferrin"
+    ],
+    "correctAnswer": "Hemoglobin"
+  },
+  {
+    "question": "The Titan Arum (Amorphophallus titanum), famous for producing the world's largest unbranched inflorescence, is native to which island?",
+    "options": [
+      "Madagascar",
+      "Borneo",
+      "Sumatra",
+      "New Guinea"
+    ],
+    "correctAnswer": "Sumatra"
+  },
+  {
+    "question": "Which of the following is the only mammal capable of true, sustained flight?",
+    "options": [
+      "Flying squirrel",
+      "Bat",
+      "Sugar glider",
+      "Colugo"
+    ],
+    "correctAnswer": "Bat"
+  },
+  {
+    "question": "Which enzyme is responsible for unwinding the DNA double helix during replication?",
+    "options": [
+      "DNA Polymerase",
+      "Helicase",
+      "RNA Primase",
+      "DNA Ligase"
+    ],
+    "correctAnswer": "Helicase"
+  },
+  {
+    "question": "Which monotreme lays eggs and possesses a venomous spur on the hind legs of males?",
+    "options": [
+      "Echidna",
+      "Platypus",
+      "Pangolin",
+      "Opossum"
+    ],
+    "correctAnswer": "Platypus"
+  },
+  {
+    "question": "What is the process by which plants lose water vapor through pores called stomata?",
+    "options": [
+      "Guttation",
+      "Transpiration",
+      "Osmosis",
+      "Respiration"
+    ],
+    "correctAnswer": "Transpiration"
+  },
+  {
+    "question": "Which mature human blood cells lack a cell nucleus?",
+    "options": [
+      "Erythrocytes",
+      "Lymphocytes",
+      "Monocytes",
+      "Neutrophils"
+    ],
+    "correctAnswer": "Erythrocytes"
+  },
+  {
+    "question": "What is the fastest-growing woody plant in the world?",
+    "options": [
+      "Kudzu",
+      "Eucalyptus",
+      "Bamboo",
+      "Balsa wood"
+    ],
+    "correctAnswer": "Bamboo"
+  },
+  {
+    "question": "Which nitrogenous base is present in RNA but absent in DNA?",
+    "options": [
+      "Thymine",
+      "Uracil",
+      "Cytosine",
+      "Adenine"
+    ],
+    "correctAnswer": "Uracil"
+  },
+  {
+    "question": "What type of mammal is a narwhal?",
+    "options": [
+      "Baleen whale",
+      "Toothed whale",
+      "Sirenian",
+      "Pinniped"
+    ],
+    "correctAnswer": "Toothed whale"
+  },
+  {
+    "question": "Which tree species, known for its fan-shaped leaves, is considered a 'living fossil' with no close living relatives?",
+    "options": [
+      "Ginkgo biloba",
+      "Dawn Redwood",
+      "Bristlecone Pine",
+      "Bunya Pine"
+    ],
+    "correctAnswer": "Ginkgo biloba"
+  },
+  {
+    "question": "Which hormone produced by pancreatic beta cells regulates blood glucose levels?",
+    "options": [
+      "Glucagon",
+      "Insulin",
+      "Somatostatin",
+      "Cortisol"
+    ],
+    "correctAnswer": "Insulin"
+  },
+  {
+    "question": "Which mammal holds the record for diving to the greatest depth in the ocean?",
+    "options": [
+      "Sperm whale",
+      "Southern elephant seal",
+      "Cuvier's beaked whale",
+      "Blue whale"
+    ],
+    "correctAnswer": "Cuvier's beaked whale"
+  },
+  {
+    "question": "Rafflesia arnoldii, known for producing the largest individual flower, relies on which organism for nutrition?",
+    "options": [
+      "Soil fungi",
+      "Tetrastigma vines",
+      "Photosynthesis",
+      "Insects"
+    ],
+    "correctAnswer": "Tetrastigma vines"
+  },
+  {
+    "question": "Which fibrous structural protein forms the main component of hair, nails, and human outer skin layers?",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Elastin",
+      "Fibrin"
+    ],
+    "correctAnswer": "Keratin"
+  },
+  {
+    "question": "Which flightless bird native to New Zealand lays the largest egg relative to its body size?",
+    "options": [
+      "Kiwi",
+      "Kakapo",
+      "Takahe",
+      "Weka"
+    ],
+    "correctAnswer": "Kiwi"
+  },
+  {
+    "question": "Which plant vascular tissue conducts water and dissolved minerals upward from roots to stems?",
+    "options": [
+      "Phloem",
+      "Xylem",
+      "Cambium",
+      "Pith"
+    ],
+    "correctAnswer": "Xylem"
+  },
+  {
+    "question": "Which cell division process results in four genetically diverse haploid daughter cells?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "correctAnswer": "Meiosis"
+  },
+  {
+    "question": "The Tuatara, an endemic reptile of New Zealand, belongs to which distinct order?",
+    "options": [
+      "Squamata",
+      "Testudines",
+      "Rhynchocephalia",
+      "Crocodylia"
+    ],
+    "correctAnswer": "Rhynchocephalia"
+  },
+  {
+    "question": "What is the smallest flowering plant (angiosperm) on Earth?",
+    "options": [
+      "Duckweed (Wolffia)",
+      "Water lily",
+      "Pilea microphylla",
+      "Spiranthes"
+    ],
+    "correctAnswer": "Duckweed (Wolffia)"
+  },
+  {
+    "question": "Which neurotransmitter functions at neuromuscular junctions to stimulate skeletal muscle contraction?",
+    "options": [
+      "Dopamine",
+      "Serotonin",
+      "Acetylcholine",
+      "GABA"
+    ],
+    "correctAnswer": "Acetylcholine"
+  },
+  {
+    "question": "What color is the skin of a polar bear under its thick coat of white fur?",
+    "options": [
+      "Pink",
+      "White",
+      "Black",
+      "Brown"
+    ],
+    "correctAnswer": "Black"
+  },
+  {
+    "question": "The carnivorous pitcher plant Sarracenia captures insects using which mechanism?",
+    "options": [
+      "Snap traps",
+      "Pitfall traps",
+      "Flypaper traps",
+      "Suction traps"
+    ],
+    "correctAnswer": "Pitfall traps"
+  },
+  {
+    "question": "Which vitamin is synthesized in human skin upon exposure to UVB light?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "correctAnswer": "Vitamin D"
+  },
+  {
+    "question": "Male bowerbirds are famous for using which method to attract females?",
+    "options": [
+      "Building and decorating intricate arbors",
+      "Engaging in underwater song duets",
+      "Changing scale patterns",
+      "Creating bioluminescent signals"
+    ],
+    "correctAnswer": "Building and decorating intricate arbors"
+  },
+  {
+    "question": "Which tree species is the primary commercial source of natural rubber latex?",
+    "options": [
+      "Hevea brasiliensis",
+      "Ficus elastica",
+      "Castilla elastica",
+      "Parthenium argentatum"
+    ],
+    "correctAnswer": "Hevea brasiliensis"
+  },
+  {
+    "question": "Which organelle is primarily responsible for lipid synthesis and cellular detoxification?",
+    "options": [
+      "Rough Endoplasmic Reticulum",
+      "Smooth Endoplasmic Reticulum",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "correctAnswer": "Smooth Endoplasmic Reticulum"
+  },
+  {
+    "question": "Which unique amphibian retains its larval features into adulthood, a phenomenon known as neoteny?",
+    "options": [
+      "Axolotl",
+      "Bullfrog",
+      "Fire salamander",
+      "Common toad"
+    ],
+    "correctAnswer": "Axolotl"
+  },
+  {
+    "question": "What is the term for cold treatment required by certain seeds to break dormancy and trigger germination?",
+    "options": [
+      "Scarification",
+      "Stratification",
+      "Vernalization",
+      "Photoperiodism"
+    ],
+    "correctAnswer": "Stratification"
+  },
+  {
+    "question": "What structural polysaccharide forms the primary component of fungal cell walls?",
+    "options": [
+      "Cellulose",
+      "Chitin",
+      "Peptidoglycan",
+      "Lignin"
+    ],
+    "correctAnswer": "Chitin"
+  },
+  {
+    "question": "Which marsupial feeds almost exclusively on eucalyptus leaves, which are toxic to most other animals?",
+    "options": [
+      "Wombat",
+      "Koala",
+      "Tasmanian devil",
+      "Quokka"
+    ],
+    "correctAnswer": "Koala"
+  },
+  {
+    "question": "The word 'gymnosperm' comes from Greek roots meaning what?",
+    "options": [
+      "Hidden seed",
+      "Naked seed",
+      "Flowering seed",
+      "Double seed"
+    ],
+    "correctAnswer": "Naked seed"
+  },
+  {
+    "question": "During which phase of mitosis do chromosomes align along the middle plane of the cell?",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "correctAnswer": "Metaphase"
+  },
+  {
+    "question": "What is the largest living invertebrate animal by body mass?",
+    "options": [
+      "Giant squid",
+      "Colossal squid",
+      "Seven-arm octopus",
+      "Giant Pacific octopus"
+    ],
+    "correctAnswer": "Colossal squid"
+  },
+  {
+    "question": "Which pigment molecule in plants absorbs light primarily in the blue and red wavelengths of the spectrum?",
+    "options": [
+      "Carotenoid",
+      "Anthocyanin",
+      "Chlorophyll",
+      "Xanthophyll"
+    ],
+    "correctAnswer": "Chlorophyll"
+  },
+  {
+    "question": "Poison dart frogs in captivity often lose their toxicity. Why?",
+    "options": [
+      "Lack of sunlight",
+      "Absence of specific wild insects in their diet",
+      "Temperature differences",
+      "Stress from captivity"
+    ],
+    "correctAnswer": "Absence of specific wild insects in their diet"
+  },
+  {
+    "question": "Which region of the human brain primarily regulates posture, balance, and motor coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Thalamus",
+      "Hypothalamus"
+    ],
+    "correctAnswer": "Cerebellum"
+  },
+  {
+    "question": "Which plant hormone promotes stem elongation, seed germination, and flowering?",
+    "options": [
+      "Abscisic acid",
+      "Ethylene",
+      "Gibberellin",
+      "Cytokinin"
+    ],
+    "correctAnswer": "Gibberellin"
+  },
+  {
+    "question": "Jellyfish, sea anemones, and corals belong to which animal phylum characterized by stinging cells?",
+    "options": [
+      "Porifera",
+      "Cnidaria",
+      "Ctenophora",
+      "Annelida"
+    ],
+    "correctAnswer": "Cnidaria"
+  },
+  {
+    "question": "Which organelle serves as the cell's packaging and distribution center for proteins?",
+    "options": [
+      "Golgi apparatus",
+      "Endoplasmic reticulum",
+      "Peroxisome",
+      "Vacuole"
+    ],
+    "correctAnswer": "Golgi apparatus"
+  },
+  {
+    "question": "What structural carbohydrate is the main structural constituent of plant cell walls?",
+    "options": [
+      "Glycogen",
+      "Starch",
+      "Cellulose",
+      "Chitin"
+    ],
+    "correctAnswer": "Cellulose"
+  },
+  {
+    "question": "What is the main carbohydrate energy storage molecule in human muscle and liver cells?",
+    "options": [
+      "Amylose",
+      "Glycogen",
+      "Glucose",
+      "Maltose"
+    ],
+    "correctAnswer": "Glycogen"
+  },
+  {
+    "question": "In arid environments, some plants fix carbon dioxide at night using which metabolic pathway?",
+    "options": [
+      "C3 photosynthesis",
+      "C4 photosynthesis",
+      "CAM photosynthesis",
+      "Calvin cycle"
+    ],
+    "correctAnswer": "CAM photosynthesis"
+  },
+  {
+    "question": "Which terrestrial mammal exhibits the highest systemic arterial blood pressure?",
+    "options": [
+      "African elephant",
+      "Giraffe",
+      "Cheetah",
+      "Hippopotamus"
+    ],
+    "correctAnswer": "Giraffe"
+  },
+  {
+    "question": "What type of chemical bond holds complementarily paired nitrogenous bases together across opposite strands of DNA?",
+    "options": [
+      "Covalent bond",
+      "Ionic bond",
+      "Hydrogen bond",
+      "Phosphodiester bond"
+    ],
+    "correctAnswer": "Hydrogen bond"
+  },
+  {
+    "question": "Which group of marine animals features specialized organs called electroreceptors (Ampullae of Lorenzini)?",
+    "options": [
+      "Cetaceans",
+      "Elasmobranchs",
+      "Teleost fish",
+      "Cephalopods"
+    ],
+    "correctAnswer": "Elasmobranchs"
+  },
+  {
+    "question": "What gas is released by ripening fruits that acts as a natural plant hormone to accelerate the ripening process in nearby fruits?",
+    "options": [
+      "Methane",
+      "Ethylene",
+      "Carbon dioxide",
+      "Nitrous oxide"
+    ],
+    "correctAnswer": "Ethylene"
+  },
+  {
+    "question": "Who invented the World Wide Web in 1989 while working at CERN?",
+    "options": [
+      "Tim Berners-Lee",
+      "Alan Turing",
+      "Vint Cerf",
+      "Marc Andreessen"
+    ],
+    "correctAnswer": "Tim Berners-Lee"
+  },
+  {
+    "question": "Which discovery by Alexander Fleming in 1928 revolutionized modern medicine?",
+    "options": [
+      "Penicillin",
+      "Insulin",
+      "Polio Vaccine",
+      "Aspirin"
+    ],
+    "correctAnswer": "Penicillin"
+  },
+  {
+    "question": "What optical disc storage format was co-developed by Sony and Philips and released commercially in 1982?",
+    "options": [
+      "Compact Disc (CD)",
+      "DVD",
+      "Blu-ray Disc",
+      "LaserDisc"
+    ],
+    "correctAnswer": "Compact Disc (CD)"
+  },
+  {
+    "question": "Who was awarded the first U.S. patent for the telephone in 1876?",
+    "options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Which programming language was created by James Gosling at Sun Microsystems and released in 1995?",
+    "options": [
+      "Java",
+      "Python",
+      "C++",
+      "JavaScript"
+    ],
+    "correctAnswer": "Java"
+  },
+  {
+    "question": "Which chemical element was discovered by Marie and Pierre Curie in 1898 and named after Marie's native country?",
+    "options": [
+      "Polonium",
+      "Radium",
+      "Uranium",
+      "Francium"
+    ],
+    "correctAnswer": "Polonium"
+  },
+  {
+    "question": "Who designed the Analytical Engine, a mechanical general-purpose computer concept in the 1830s?",
+    "options": [
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann",
+      "Ada Lovelace"
+    ],
+    "correctAnswer": "Charles Babbage"
+  },
+  {
+    "question": "Which short-range wireless technology standard was named after a 10th-century Scandinavian king?",
+    "options": [
+      "Bluetooth",
+      "Wi-Fi",
+      "Zigbee",
+      "NFC"
+    ],
+    "correctAnswer": "Bluetooth"
+  },
+  {
+    "question": "In 1927, who successfully transmitted the first fully electronic television image using an image dissector tube?",
+    "options": [
+      "Philo Farnsworth",
+      "John Logie Baird",
+      "Vladimir Zworykin",
+      "Charles Francis Jenkins"
+    ],
+    "correctAnswer": "Philo Farnsworth"
+  },
+  {
+    "question": "Who developed the first successful inactivated polio vaccine in 1953?",
+    "options": [
+      "Jonas Salk",
+      "Albert Sabin",
+      "Louis Pasteur",
+      "Edward Jenner"
+    ],
+    "correctAnswer": "Jonas Salk"
+  },
+  {
+    "question": "Which subatomic particle was discovered by J.J. Thomson in 1897 using cathode ray tubes?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Quark"
+    ],
+    "correctAnswer": "Electron"
+  },
+  {
+    "question": "What company manufactured the DynaTAC 8000X, the world's first commercially available handheld mobile phone in 1983?",
+    "options": [
+      "Motorola",
+      "Nokia",
+      "IBM",
+      "Ericsson"
+    ],
+    "correctAnswer": "Motorola"
+  },
+  {
+    "question": "Who patented the compression-ignition engine, commonly named after him, in 1893?",
+    "options": [
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Karl Benz",
+      "Henry Ford"
+    ],
+    "correctAnswer": "Rudolf Diesel"
+  },
+  {
+    "question": "Which subatomic particle's discovery was announced by CERN physicists in 2012 at the Large Hadron Collider?",
+    "options": [
+      "Higgs boson",
+      "Top quark",
+      "Tau neutrino",
+      "Charm quark"
+    ],
+    "correctAnswer": "Higgs boson"
+  },
+  {
+    "question": "Which polymath invented the lightning rod, bifocal glasses, and a heat-efficient stove?",
+    "options": [
+      "Benjamin Franklin",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Michael Faraday"
+    ],
+    "correctAnswer": "Benjamin Franklin"
+  },
+  {
+    "question": "Which open-source operating system kernel was initially created by Linus Torvalds in 1991?",
+    "options": [
+      "Linux",
+      "Unix",
+      "Minix",
+      "MS-DOS"
+    ],
+    "correctAnswer": "Linux"
+  },
+  {
+    "question": "Who discovered cosmic microwave background radiation in 1965 alongside Robert Wilson?",
+    "options": [
+      "Arno Penzias",
+      "Edwin Hubble",
+      "Stephen Hawking",
+      "Carl Sagan"
+    ],
+    "correctAnswer": "Arno Penzias"
+  },
+  {
+    "question": "Which medical imaging invention brought Godfrey Hounsfield and Allan Cormack the Nobel Prize in 1979?",
+    "options": [
+      "CT scanner",
+      "MRI",
+      "Ultrasound",
+      "X-ray machine"
+    ],
+    "correctAnswer": "CT scanner"
+  },
+  {
+    "question": "Which institution created Mosaic, the early web browser credited with popularizing the World Wide Web in 1993?",
+    "options": [
+      "NCSA",
+      "Netscape",
+      "Microsoft",
+      "AOL"
+    ],
+    "correctAnswer": "NCSA"
+  },
+  {
+    "question": "Who invented the mechanical cotton gin in 1793, dramatically altering agricultural production?",
+    "options": [
+      "Eli Whitney",
+      "Cyrus McCormick",
+      "Samuel Morse",
+      "James Watt"
+    ],
+    "correctAnswer": "Eli Whitney"
+  },
+  {
+    "question": "What gene-editing technology was codeveloped by Jennifer Doudna and Emmanuelle Charpentier?",
+    "options": [
+      "CRISPR-Cas9",
+      "TALENs",
+      "Zinc Finger Nucleases",
+      "RNA Interference"
+    ],
+    "correctAnswer": "CRISPR-Cas9"
+  },
+  {
+    "question": "Who discovered X-rays in 1895 while experimenting with electrical discharges in vacuum tubes?",
+    "options": [
+      "Wilhelm Röntgen",
+      "Henri Becquerel",
+      "Ernest Rutherford",
+      "Max Planck"
+    ],
+    "correctAnswer": "Wilhelm Röntgen"
+  },
+  {
+    "question": "Which mathematician broke the Enigma machine code during WWII and proposed the concept of universal computing?",
+    "options": [
+      "Alan Turing",
+      "John von Neumann",
+      "Claude Shannon",
+      "George Boole"
+    ],
+    "correctAnswer": "Alan Turing"
+  },
+  {
+    "question": "What carbon-based material, consisting of a single layer of carbon atoms, was isolated in 2004 by Andre Geim and Konstantin Novoselov?",
+    "options": [
+      "Graphene",
+      "Carbon Fiber",
+      "Fullerene",
+      "Kevlar"
+    ],
+    "correctAnswer": "Graphene"
+  },
+  {
+    "question": "Who established Menlo Park laboratory and patented a commercially viable incandescent light bulb in 1879?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Joseph Swan",
+      "Humphry Davy"
+    ],
+    "correctAnswer": "Thomas Edison"
+  },
+  {
+    "question": "Which astronomer discovered Jupiter's four largest moons in 1610 using an improved telescope design?",
+    "options": [
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Nicolaus Copernicus",
+      "Tycho Brahe"
+    ],
+    "correctAnswer": "Galileo Galilei"
+  },
+  {
+    "question": "Who invented dynamite in 1867 and later used his wealth to establish international prizes in science and peace?",
+    "options": [
+      "Alfred Nobel",
+      "Robert Oppenheimer",
+      "Fritz Haber",
+      "Ascanio Sobrero"
+    ],
+    "correctAnswer": "Alfred Nobel"
+  },
+  {
+    "question": "What search engine ranking algorithm was created by Larry Page and Sergey Brin at Stanford University?",
+    "options": [
+      "PageRank",
+      "RankBrain",
+      "Hummingbird",
+      "Panda"
+    ],
+    "correctAnswer": "PageRank"
+  },
+  {
+    "question": "Who discovered radioactivity in 1896 while investigating uranium salts?",
+    "options": [
+      "Henri Becquerel",
+      "Marie Curie",
+      "Ernest Rutherford",
+      "Niels Bohr"
+    ],
+    "correctAnswer": "Henri Becquerel"
+  },
+  {
+    "question": "Which satellite navigation system was declared fully operational for civilian access by the US government in 1995?",
+    "options": [
+      "GPS",
+      "GLONASS",
+      "LORAN",
+      "Galileo"
+    ],
+    "correctAnswer": "GPS"
+  },
+  {
+    "question": "Who developed the world's first successful vaccine using cowpox material to immunize against smallpox in 1796?",
+    "options": [
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
+    "correctAnswer": "Edward Jenner"
+  },
+  {
+    "question": "Which synthetic polymer, known for its extreme tensile strength, was discovered by Stephanie Kwolek at DuPont in 1965?",
+    "options": [
+      "Kevlar",
+      "Nylon",
+      "Teflon",
+      "Neoprene"
+    ],
+    "correctAnswer": "Kevlar"
+  },
+  {
+    "question": "Who introduced movable type printing to Europe around 1440 with his invention of the mechanical printing press?",
+    "options": [
+      "Johannes Gutenberg",
+      "William Caxton",
+      "Aldus Manutius",
+      "Albrecht Dürer"
+    ],
+    "correctAnswer": "Johannes Gutenberg"
+  },
+  {
+    "question": "Which elemental gas was independently discovered by Joseph Priestley and Carl Wilhelm Scheele in the 1770s?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon Dioxide"
+    ],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "question": "What peer-to-peer digital currency whitepaper was published under the pseudonym Satoshi Nakamoto in 2008?",
+    "options": [
+      "Bitcoin",
+      "Ethereum",
+      "Ripple",
+      "Litecoin"
+    ],
+    "correctAnswer": "Bitcoin"
+  },
+  {
+    "question": "Who built the world's first practical commercial steam-powered atmospheric pump in 1712?",
+    "options": [
+      "Thomas Newcomen",
+      "James Watt",
+      "George Stephenson",
+      "Robert Fulton"
+    ],
+    "correctAnswer": "Thomas Newcomen"
+  },
+  {
+    "question": "For which explanation of a quantum physical phenomenon did Albert Einstein receive the 1921 Nobel Prize in Physics?",
+    "options": [
+      "Photoelectric effect",
+      "General relativity",
+      "Brownian motion",
+      "Special relativity"
+    ],
+    "correctAnswer": "Photoelectric effect"
+  },
+  {
+    "question": "Who invented the elevator safety brake in 1852, enabling the safe construction of modern skyscrapers?",
+    "options": [
+      "Elisha Otis",
+      "Willis Carrier",
+      "Henry Bessemer",
+      "George Westinghouse"
+    ],
+    "correctAnswer": "Elisha Otis"
+  },
+  {
+    "question": "Which 19th-century monk formulated the foundational laws of plant genetics through pea plant experiments?",
+    "options": [
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Jean-Baptiste Lamarck",
+      "Hugo de Vries"
+    ],
+    "correctAnswer": "Gregor Mendel"
+  },
+  {
+    "question": "Which high-level programming language was designed by Guido van Rossum and first released in 1991?",
+    "options": [
+      "Python",
+      "Ruby",
+      "Perl",
+      "PHP"
+    ],
+    "correctAnswer": "Python"
+  },
+  {
+    "question": "Which device, capable of recording and reproducing sound, was invented by Thomas Edison in 1877?",
+    "options": [
+      "Phonograph",
+      "Gramophone",
+      "Telegraphone",
+      "Dictaphone"
+    ],
+    "correctAnswer": "Phonograph"
+  },
+  {
+    "question": "Who named the fundamental unit of light, the photon, in 1926?",
+    "options": [
+      "Gilbert N. Lewis",
+      "Albert Einstein",
+      "Max Planck",
+      "Arthur Compton"
+    ],
+    "correctAnswer": "Gilbert N. Lewis"
+  },
+  {
+    "question": "Which containerization platform was publicly launched by Solomon Hykes in 2013 to revolutionize software deployment?",
+    "options": [
+      "Docker",
+      "Kubernetes",
+      "Vagrant",
+      "VirtualBox"
+    ],
+    "correctAnswer": "Docker"
+  },
+  {
+    "question": "Who co-discovered the double-helix molecular structure of DNA in 1953 along with James Watson?",
+    "options": [
+      "Francis Crick",
+      "Rosalind Franklin",
+      "Linus Pauling",
+      "Erwin Chargaff"
+    ],
+    "correctAnswer": "Francis Crick"
+  },
+  {
+    "question": "Which standard for wireless local area networking was officially released under the name IEEE 802.11 in 1997?",
+    "options": [
+      "Wi-Fi",
+      "Bluetooth",
+      "LTE",
+      "Zigbee"
+    ],
+    "correctAnswer": "Wi-Fi"
+  },
+  {
+    "question": "Who patented the first inexpensive industrial process for mass-producing steel in 1856?",
+    "options": [
+      "Henry Bessemer",
+      "Andrew Carnegie",
+      "James Watt",
+      "Carl Wilhelm Siemens"
+    ],
+    "correctAnswer": "Henry Bessemer"
+  },
+  {
+    "question": "Which physicist experimentally demonstrated the existence of electromagnetic radio waves in 1887?",
+    "options": [
+      "Heinrich Hertz",
+      "Guglielmo Marconi",
+      "James Clerk Maxwell",
+      "Michael Faraday"
+    ],
+    "correctAnswer": "Heinrich Hertz"
+  },
+  {
+    "question": "Who invented the modern mercury-in-glass thermometer and devised a temperature scale named after him in 1714?",
+    "options": [
+      "Daniel Gabriel Fahrenheit",
+      "Anders Celsius",
+      "Lord Kelvin",
+      "René Antoine Ferchault de Réaumur"
+    ],
+    "correctAnswer": "Daniel Gabriel Fahrenheit"
+  },
+  {
+    "question": "Which company introduced the 4004, the world's first commercially produced single-chip microprocessor, in 1971?",
+    "options": [
+      "Intel",
+      "AMD",
+      "Texas Instruments",
+      "IBM"
+    ],
+    "correctAnswer": "Intel"
+  },
+  {
+    "question": "Which scientist invented pasteurization to destroy microbes in liquids and introduced rabies vaccination?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister",
+      "Alexander Fleming"
+    ],
+    "correctAnswer": "Louis Pasteur"
+  },
+  {
+    "question": "Who designed the glass pyramid entrance to the Louvre Museum in Paris?",
+    "options": [
+      "I. M. Pei",
+      "Frank Gehry",
+      "Renzo Piano",
+      "Zaha Hadid"
+    ],
+    "correctAnswer": "I. M. Pei"
+  },
+  {
+    "question": "In which country is the ancient rock-cut architecture site of Petra located?",
+    "options": [
+      "Jordan",
+      "Egypt",
+      "Lebanon",
+      "Syria"
+    ],
+    "correctAnswer": "Jordan"
+  },
+  {
+    "question": "Which Renaissance master painted the frescoes on the ceiling of the Sistine Chapel?",
+    "options": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Raphael",
+      "Sandro Botticelli"
+    ],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "What architectural style is characterized by pointed arches, ribbed vaults, and flying buttresses?",
+    "options": [
+      "Gothic",
+      "Romanesque",
+      "Baroque",
+      "Neoclassical"
+    ],
+    "correctAnswer": "Gothic"
+  },
+  {
+    "question": "The ancient city of Machu Picchu belongs to which pre-Columbian civilization?",
+    "options": [
+      "Inca",
+      "Maya",
+      "Aztec",
+      "Olmec"
+    ],
+    "correctAnswer": "Inca"
+  },
+  {
+    "question": "Which Spanish architect designed the Sagrada Família in Barcelona?",
+    "options": [
+      "Antoni Gaudí",
+      "Santiago Calatrava",
+      "Lluís Domènech i Montaner",
+      "César Pelli"
+    ],
+    "correctAnswer": "Antoni Gaudí"
+  },
+  {
+    "question": "The UNESCO World Heritage site of Angkor Wat is located in which country?",
+    "options": [
+      "Cambodia",
+      "Thailand",
+      "Vietnam",
+      "Laos"
+    ],
+    "correctAnswer": "Cambodia"
+  },
+  {
+    "question": "Which famous painting by Leonardo da Vinci depicts Jesus's final meal with his apostles?",
+    "options": [
+      "The Last Supper",
+      "The Annunciation",
+      "The Virgin of the Rocks",
+      "Adoration of the Magi"
+    ],
+    "correctAnswer": "The Last Supper"
+  },
+  {
+    "question": "Which modernist art movement was founded by Pablo Picasso and Georges Braque?",
+    "options": [
+      "Cubism",
+      "Surrealism",
+      "Futurism",
+      "Dadaism"
+    ],
+    "correctAnswer": "Cubism"
+  },
+  {
+    "question": "What is the primary marble material used to build the Taj Mahal in Agra, India?",
+    "options": [
+      "Makrana marble",
+      "Carrara marble",
+      "Pentelic marble",
+      "Proconnesian marble"
+    ],
+    "correctAnswer": "Makrana marble"
+  },
+  {
+    "question": "Designed by Frank Lloyd Wright, which organic architecture landmark features a house built over a waterfall?",
+    "options": [
+      "Fallingwater",
+      "Robie House",
+      "Taliesin West",
+      "Guggenheim Museum"
+    ],
+    "correctAnswer": "Fallingwater"
+  },
+  {
+    "question": "The ancient complex of Persepolis was the ceremonial capital of which ancient empire?",
+    "options": [
+      "Achaemenid Empire",
+      "Assyrian Empire",
+      "Babylonian Empire",
+      "Ottoman Empire"
+    ],
+    "correctAnswer": "Achaemenid Empire"
+  },
+  {
+    "question": "Which Dutch painter created 'The Starry Night' while staying at the Saint-Paul-de-Mausole asylum?",
+    "options": [
+      "Vincent van Gogh",
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Piet Mondrian"
+    ],
+    "correctAnswer": "Vincent van Gogh"
+  },
+  {
+    "question": "Which UNESCO World Heritage site in Australia is the world's largest coral reef system?",
+    "options": [
+      "Great Barrier Reef",
+      "Ningaloo Coast",
+      "Shark Bay",
+      "Lord Howe Island Group"
+    ],
+    "correctAnswer": "Great Barrier Reef"
+  },
+  {
+    "question": "Which Roman monument, built under Emperor Vespasian, was used for gladiatorial contests?",
+    "options": [
+      "Colosseum",
+      "Pantheon",
+      "Circus Maximus",
+      "Arch of Titus"
+    ],
+    "correctAnswer": "Colosseum"
+  },
+  {
+    "question": "What iconic sculpture by Auguste Rodin depicts a seated nude man resting his chin on his hand?",
+    "options": [
+      "The Thinker",
+      "The Kiss",
+      "The Burghers of Calais",
+      "The Gates of Hell"
+    ],
+    "correctAnswer": "The Thinker"
+  },
+  {
+    "question": "Which prehistoric monument in Wiltshire, England consists of a ring of standing stones?",
+    "options": [
+      "Stonehenge",
+      "Avebury",
+      "Callanish Stones",
+      "Newgrange"
+    ],
+    "correctAnswer": "Stonehenge"
+  },
+  {
+    "question": "The Chrysler Building in New York City is a prominent example of which architectural style?",
+    "options": [
+      "Art Deco",
+      "Art Nouveau",
+      "Bauhaus",
+      "Brutalisim"
+    ],
+    "correctAnswer": "Art Deco"
+  },
+  {
+    "question": "Which artist painted 'The Persistence of Memory', famous for its melting pocket watches?",
+    "options": [
+      "Salvador Dalí",
+      "René Magritte",
+      "Max Ernst",
+      "Joan Miró"
+    ],
+    "correctAnswer": "Salvador Dalí"
+  },
+  {
+    "question": "Which Chilean island in the southeastern Pacific Ocean features monumental statues known as Moai?",
+    "options": [
+      "Easter Island",
+      "Galapagos Islands",
+      "Pitcairn Island",
+      "Chiloé Island"
+    ],
+    "correctAnswer": "Easter Island"
+  },
+  {
+    "question": "The Hagia Sophia, built under Emperor Justinian I, is located in which city?",
+    "options": [
+      "Istanbul",
+      "Athens",
+      "Rome",
+      "Cairo"
+    ],
+    "correctAnswer": "Istanbul"
+  },
+  {
+    "question": "Which Japanese woodblock print by Hokusai features huge waves framing Mount Fuji?",
+    "options": [
+      "The Great Wave off Kanagawa",
+      "Fine Wind, Clear Morning",
+      "Rainstorm Beneath the Summit",
+      "Thunderstorm Below the Summit"
+    ],
+    "correctAnswer": "The Great Wave off Kanagawa"
+  },
+  {
+    "question": "The monumental tomb known as the Mausoleum at Halicarnassus was located in which modern-day country?",
+    "options": [
+      "Turkey",
+      "Greece",
+      "Egypt",
+      "Italy"
+    ],
+    "correctAnswer": "Turkey"
+  },
+  {
+    "question": "Which Norwegian artist painted 'The Scream'?",
+    "options": [
+      "Edvard Munch",
+      "Gustav Vigeland",
+      "Christian Krohg",
+      "Peder Balke"
+    ],
+    "correctAnswer": "Edvard Munch"
+  },
+  {
+    "question": "Which German art school, operational from 1919 to 1933, combined crafts and fine arts?",
+    "options": [
+      "Bauhaus",
+      "De Stijl",
+      "Der Blaue Reiter",
+      "Secession"
+    ],
+    "correctAnswer": "Bauhaus"
+  },
+  {
+    "question": "The ancient Mayan temple-pyramid known as El Castillo is located in which archaeological site?",
+    "options": [
+      "Chichen Itza",
+      "Tikal",
+      "Palenque",
+      "Copan"
+    ],
+    "correctAnswer": "Chichen Itza"
+  },
+  {
+    "question": "Which Impressionist painter painted the 'Water Lilies' series in his garden at Giverny?",
+    "options": [
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Edgar Degas",
+      "Camille Pissarro"
+    ],
+    "correctAnswer": "Claude Monet"
+  },
+  {
+    "question": "What is the name of the ancient citadel located on a rocky outcrop above the city of Athens?",
+    "options": [
+      "Acropolis of Athens",
+      "Mycenae",
+      "Knossos",
+      "Delphi"
+    ],
+    "correctAnswer": "Acropolis of Athens"
+  },
+  {
+    "question": "Which architect designed the Sydney Opera House in Australia?",
+    "options": [
+      "Jørn Utzon",
+      "Eero Saarinen",
+      "Norman Foster",
+      "Richard Rogers"
+    ],
+    "correctAnswer": "Jørn Utzon"
+  },
+  {
+    "question": "The famous 1656 painting 'Las Meninas' was created by which Spanish Golden Age painter?",
+    "options": [
+      "Diego Velázquez",
+      "Francisco Goya",
+      "El Greco",
+      "Bartolomé Esteban Murillo"
+    ],
+    "correctAnswer": "Diego Velázquez"
+  },
+  {
+    "question": "Which World Heritage Site in Ethiopia is famous for its eleven monolithic rock-cut churches?",
+    "options": [
+      "Lalibela",
+      "Axum",
+      "Gondar",
+      "Harar Jugol"
+    ],
+    "correctAnswer": "Lalibela"
+  },
+  {
+    "question": "The painting 'Girl with a Pearl Earring' was created by which Dutch Golden Age artist?",
+    "options": [
+      "Johannes Vermeer",
+      "Rembrandt van Rijn",
+      "Frans Hals",
+      "Jan Steen"
+    ],
+    "correctAnswer": "Johannes Vermeer"
+  },
+  {
+    "question": "Which architectural style, popular in late 19th-century Europe, was characterized by floral motifs and organic shapes?",
+    "options": [
+      "Art Nouveau",
+      "Art Deco",
+      "Neoclassicism",
+      "Rococo"
+    ],
+    "correctAnswer": "Art Nouveau"
+  },
+  {
+    "question": "The ancient city of Carthage, a UNESCO World Heritage Site, is located near which modern capital?",
+    "options": [
+      "Tunis",
+      "Algiers",
+      "Rabat",
+      "Tripoli"
+    ],
+    "correctAnswer": "Tunis"
+  },
+  {
+    "question": "Who sculpted the famous marble statue of 'David' housed in the Accademia Gallery in Florence?",
+    "options": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini",
+      "Verrocchio"
+    ],
+    "correctAnswer": "Michelangelo"
+  },
+  {
+    "question": "Which British architect designed St Paul's Cathedral after the Great Fire of London in 1666?",
+    "options": [
+      "Christopher Wren",
+      "Inigo Jones",
+      "John Vanbrugh",
+      "Nicholas Hawksmoor"
+    ],
+    "correctAnswer": "Christopher Wren"
+  },
+  {
+    "question": "The historic sanctuary of Borobudur, the world's largest Buddhist temple, is located in which country?",
+    "options": [
+      "Indonesia",
+      "Myanmar",
+      "Sri Lanka",
+      "Thailand"
+    ],
+    "correctAnswer": "Indonesia"
+  },
+  {
+    "question": "Which Post-Impressionist painter spent his final years painting in Tahiti?",
+    "options": [
+      "Paul Gauguin",
+      "Paul Cézanne",
+      "Georges Seurat",
+      "Henri Rousseau"
+    ],
+    "correctAnswer": "Paul Gauguin"
+  },
+  {
+    "question": "The ancient Palace of Knossos, associated with the legend of the Minotaur, is on which Greek island?",
+    "options": [
+      "Crete",
+      "Rhodes",
+      "Santorini",
+      "Corfu"
+    ],
+    "correctAnswer": "Crete"
+  },
+  {
+    "question": "Which Pop Art pioneer created the famous artwork featuring Campbell's Soup Cans in 1962?",
+    "options": [
+      "Andy Warhol",
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Claes Oldenburg"
+    ],
+    "correctAnswer": "Andy Warhol"
+  },
+  {
+    "question": "The iconic Neuschwanstein Castle, commissioned by King Ludwig II, is located in which German state?",
+    "options": [
+      "Bavaria",
+      "Saxony",
+      "Baden-Württemberg",
+      "Hesse"
+    ],
+    "correctAnswer": "Bavaria"
+  },
+  {
+    "question": "Which Mexican painter is celebrated for her numerous self-portraits expressing pain and passion?",
+    "options": [
+      "Frida Kahlo",
+      "Remedios Varo",
+      "Leonora Carrington",
+      "María Izquierdo"
+    ],
+    "correctAnswer": "Frida Kahlo"
+  },
+  {
+    "question": "The historic city center of Florence is recognized as the birthplace of which cultural movement?",
+    "options": [
+      "Renaissance",
+      "Enlightenment",
+      "Romanticism",
+      "Baroque"
+    ],
+    "correctAnswer": "Renaissance"
+  },
+  {
+    "question": "Which architect designed the Walt Disney Concert Hall in Los Angeles and the Guggenheim Museum in Bilbao?",
+    "options": [
+      "Frank Gehry",
+      "Daniel Libeskind",
+      "Thom Mayne",
+      "Jean Nouvel"
+    ],
+    "correctAnswer": "Frank Gehry"
+  },
+  {
+    "question": "What is the classical order of architecture characterized by columns featuring scroll-like spirals called volutes?",
+    "options": [
+      "Ionic",
+      "Doric",
+      "Corinthian",
+      "Tuscan"
+    ],
+    "correctAnswer": "Ionic"
+  },
+  {
+    "question": "Mesa Verde National Park, famous for its Ancestral Puebloan cliff dwellings, is in which US state?",
+    "options": [
+      "Colorado",
+      "Arizona",
+      "New Mexico",
+      "Utah"
+    ],
+    "correctAnswer": "Colorado"
+  },
+  {
+    "question": "Which Baroque sculptor created the masterpiece 'The Ecstasy of Saint Teresa' in Rome?",
+    "options": [
+      "Gian Lorenzo Bernini",
+      "Francesco Borromini",
+      "Alessandro Algardi",
+      "Stefano Maderno"
+    ],
+    "correctAnswer": "Gian Lorenzo Bernini"
+  },
+  {
+    "question": "The ancient city of Palmyra, an oasis in the Syrian Desert, was ruled in the 3rd century by which famous queen?",
+    "options": [
+      "Zenobia",
+      "Cleopatra",
+      "Nefertiti",
+      "Boudica"
+    ],
+    "correctAnswer": "Zenobia"
+  },
+  {
+    "question": "Which Gustav Klimt painting, featuring gold leaf detailing, depicts two figures embracing?",
+    "options": [
+      "The Kiss",
+      "Portrait of Adele Bloch-Bauer I",
+      "Judith and the Head of Holofernes",
+      "The Tree of Life"
+    ],
+    "correctAnswer": "The Kiss"
+  },
+  {
+    "question": "The historic fortified city of Dubrovnik, known as the 'Pearl of the Adriatic', is located in which country?",
+    "options": [
+      "Croatia",
+      "Montenegro",
+      "Slovenia",
+      "Albania"
+    ],
+    "correctAnswer": "Croatia"
+  },
+  {
+    "question": "Which composer wrote 'The Well-Tempered Clavier'?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Frederic Chopin"
+    ],
+    "correctAnswer": "Johann Sebastian Bach"
+  },
+  {
+    "question": "What is the Köchel catalogue (K.) used for?",
+    "options": [
+      "Cataloging the works of Wolfgang Amadeus Mozart",
+      "Cataloging Ludwig van Beethoven's symphonies",
+      "Measuring violin pitch standards",
+      "Ranking opera singers"
+    ],
+    "correctAnswer": "Cataloging the works of Wolfgang Amadeus Mozart"
+  },
+  {
+    "question": "Which of Beethoven's symphonies is known as the 'Eroica'?",
+    "options": [
+      "Symphony No. 3",
+      "Symphony No. 5",
+      "Symphony No. 7",
+      "Symphony No. 9"
+    ],
+    "correctAnswer": "Symphony No. 3"
+  },
+  {
+    "question": "Which woodwind instrument uses a double reed?",
+    "options": [
+      "Oboe",
+      "Clarinet",
+      "Flute",
+      "Saxophone"
+    ],
+    "correctAnswer": "Oboe"
+  },
+  {
+    "question": "Frédéric Chopin was born in which country?",
+    "options": [
+      "Poland",
+      "France",
+      "Austria",
+      "Hungary"
+    ],
+    "correctAnswer": "Poland"
+  },
+  {
+    "question": "Which Baroque composer wrote the set of four violin concertos known as 'The Four Seasons'?",
+    "options": [
+      "Antonio Vivaldi",
+      "Georg Friedrich Händel",
+      "Arcangelo Corelli",
+      "Domenico Scarlatti"
+    ],
+    "correctAnswer": "Antonio Vivaldi"
+  },
+  {
+    "question": "What brass instrument features a backward-facing bell and uses valves operated by the left hand?",
+    "options": [
+      "French Horn",
+      "Trumpet",
+      "Trombone",
+      "Tuba"
+    ],
+    "correctAnswer": "French Horn"
+  },
+  {
+    "question": "Which famous ballet features music composed by Pyotr Ilyich Tchaikovsky including the 'Dance of the Sugar Plum Fairy'?",
+    "options": [
+      "The Nutcracker",
+      "Swan Lake",
+      "Sleeping Beauty",
+      "Giselle"
+    ],
+    "correctAnswer": "The Nutcracker"
+  },
+  {
+    "question": "Which composer wrote the opera 'Carmen'?",
+    "options": [
+      "Georges Bizet",
+      "Giuseppe Verdi",
+      "Giacomo Puccini",
+      "Gioachino Rossini"
+    ],
+    "correctAnswer": "Georges Bizet"
+  },
+  {
+    "question": "What is the highest-pitched instrument in the standard orchestral brass section?",
+    "options": [
+      "Trumpet",
+      "French Horn",
+      "Trombone",
+      "Tuba"
+    ],
+    "correctAnswer": "Trumpet"
+  },
+  {
+    "question": "Which 1913 ballet by Igor Stravinsky caused a famous riot at its premiere in Paris?",
+    "options": [
+      "The Rite of Spring",
+      "The Firebird",
+      "Petrushka",
+      "Pulcinella"
+    ],
+    "correctAnswer": "The Rite of Spring"
+  },
+  {
+    "question": "Which Hungarian composer was a virtuosic pianist who wrote the 'Hungarian Rhapsodies'?",
+    "options": [
+      "Franz Liszt",
+      "Béla Bartók",
+      "Zoltán Kodály",
+      "György Ligeti"
+    ],
+    "correctAnswer": "Franz Liszt"
+  },
+  {
+    "question": "How many strings does a standard orchestral violin have?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "'Messiah', which includes the famous 'Hallelujah Chorus', is an oratorio composed by whom?",
+    "options": [
+      "George Frideric Handel",
+      "Johann Sebastian Bach",
+      "Joseph Haydn",
+      "Henry Purcell"
+    ],
+    "correctAnswer": "George Frideric Handel"
+  },
+  {
+    "question": "Which opera by Mozart features the aria 'Der Hölle Rache', sung by the Queen of the Night?",
+    "options": [
+      "The Magic Flute",
+      "Don Giovanni",
+      "The Marriage of Figaro",
+      "Così fan tutte"
+    ],
+    "correctAnswer": "The Magic Flute"
+  },
+  {
+    "question": "What stringed instrument is slightly larger than a violin and tuned a fifth lower?",
+    "options": [
+      "Viola",
+      "Cello",
+      "Double Bass",
+      "Mandolin"
+    ],
+    "correctAnswer": "Viola"
+  },
+  {
+    "question": "Beethoven's Symphony No. 9 includes a choral final movement based on which poet's work?",
+    "options": [
+      "Friedrich Schiller",
+      "Johann Wolfgang von Goethe",
+      "Heinrich Heine",
+      "Rainer Maria Rilke"
+    ],
+    "correctAnswer": "Friedrich Schiller"
+  },
+  {
+    "question": "Which French composer is associated with Impressionist music and composed 'Clair de Lune'?",
+    "options": [
+      "Claude Debussy",
+      "Maurice Ravel",
+      "Gabriel Fauré",
+      "Erik Satie"
+    ],
+    "correctAnswer": "Claude Debussy"
+  },
+  {
+    "question": "Which percussion instrument consists of tuned metal bars struck with mallets and uses motor-driven vanes for vibrato?",
+    "options": [
+      "Vibraphone",
+      "Marimba",
+      "Xylophone",
+      "Glockenspiel"
+    ],
+    "correctAnswer": "Vibraphone"
+  },
+  {
+    "question": "What term did Richard Wagner use to describe a recurrent musical theme associated with a specific person, idea, or situation?",
+    "options": [
+      "Leitmotif",
+      "Libretto",
+      "Cadenza",
+      "Ostinato"
+    ],
+    "correctAnswer": "Leitmotif"
+  },
+  {
+    "question": "Which composer is often called the 'Father of the Symphony' and the 'Father of the String Quartet'?",
+    "options": [
+      "Joseph Haydn",
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Carl Philipp Emanuel Bach"
+    ],
+    "correctAnswer": "Joseph Haydn"
+  },
+  {
+    "question": "The snare drum gets its distinctive buzzing sound from what mechanism stretched across the bottom head?",
+    "options": [
+      "Metal wires or snares",
+      "Leather straps",
+      "Plastic ribbons",
+      "Felt pads"
+    ],
+    "correctAnswer": "Metal wires or snares"
+  },
+  {
+    "question": "Which famous orchestral piece by Maurice Ravel features an unrelenting crescendo over a repeating snare drum rhythm?",
+    "options": [
+      "Boléro",
+      "Pavane for a Dead Princess",
+      "La Valse",
+      "Daphnis et Chloé"
+    ],
+    "correctAnswer": "Boléro"
+  },
+  {
+    "question": "Which Austrian composer composed 'The Unfinished Symphony' (Symphony No. 8 in B minor)?",
+    "options": [
+      "Franz Schubert",
+      "Gustav Mahler",
+      "Anton Bruckner",
+      "Alban Berg"
+    ],
+    "correctAnswer": "Franz Schubert"
+  },
+  {
+    "question": "To which instrument family does the English Horn belong?",
+    "options": [
+      "Woodwind",
+      "Brass",
+      "Percussion",
+      "String"
+    ],
+    "correctAnswer": "Woodwind"
+  },
+  {
+    "question": "Johannes Brahms belonged to which musical era?",
+    "options": [
+      "Romantic",
+      "Baroque",
+      "Classical",
+      "Renaissance"
+    ],
+    "correctAnswer": "Romantic"
+  },
+  {
+    "question": "'Nessun Dorma' is a famous aria from which opera by Giacomo Puccini?",
+    "options": [
+      "Turandot",
+      "La Bohème",
+      "Tosca",
+      "Madama Butterfly"
+    ],
+    "correctAnswer": "Turandot"
+  },
+  {
+    "question": "What is the lowest-pitched instrument in the standard woodwind section of a symphony orchestra?",
+    "options": [
+      "Contrabassoon",
+      "Bass Clarinet",
+      "English Horn",
+      "Baritone Saxophone"
+    ],
+    "correctAnswer": "Contrabassoon"
+  },
+  {
+    "question": "Which Mahler symphony is nicknamed 'Symphony of a Thousand' due to the large number of performers required?",
+    "options": [
+      "Symphony No. 8",
+      "Symphony No. 2",
+      "Symphony No. 5",
+      "Symphony No. 9"
+    ],
+    "correctAnswer": "Symphony No. 8"
+  },
+  {
+    "question": "Which French composer wrote 'The Carnival of the Animals', including the movement 'The Swan'?",
+    "options": [
+      "Camille Saint-Saëns",
+      "Hector Berlioz",
+      "Jules Massenet",
+      "Charles Gounod"
+    ],
+    "correctAnswer": "Camille Saint-Saëns"
+  },
+  {
+    "question": "The harpsichord produces sound by doing what to its strings?",
+    "options": [
+      "Plucking them with plectra",
+      "Striking them with felt hammers",
+      "Rubbing them with a bowed wheel",
+      "Blowing air past them"
+    ],
+    "correctAnswer": "Plucking them with plectra"
+  },
+  {
+    "question": "'La Traviata' and 'Rigoletto' were composed by which Italian master?",
+    "options": [
+      "Giuseppe Verdi",
+      "Gioachino Rossini",
+      "Gaetano Donizetti",
+      "Vincenzo Bellini"
+    ],
+    "correctAnswer": "Giuseppe Verdi"
+  },
+  {
+    "question": "Antonín Dvořák composed Symphony No. 9 while living in the United States. What is its subtitle?",
+    "options": [
+      "From the New World",
+      "Pathétique",
+      "Pastoral",
+      "Titan"
+    ],
+    "correctAnswer": "From the New World"
+  },
+  {
+    "question": "What key is a standard Bb Clarinet in when playing concert C?",
+    "options": [
+      "B-flat",
+      "C",
+      "E-flat",
+      "F"
+    ],
+    "correctAnswer": "B-flat"
+  },
+  {
+    "question": "The opera 'The Barber of Seville' was written by which Italian composer?",
+    "options": [
+      "Gioachino Rossini",
+      "Giuseppe Verdi",
+      "Giacomo Puccini",
+      "Claudio Monteverdi"
+    ],
+    "correctAnswer": "Gioachino Rossini"
+  },
+  {
+    "question": "Jean Sibelius is considered the national composer of which country?",
+    "options": [
+      "Finland",
+      "Sweden",
+      "Norway",
+      "Denmark"
+    ],
+    "correctAnswer": "Finland"
+  },
+  {
+    "question": "What instrument is essentially a small flute played an octave higher than normal flute pitch?",
+    "options": [
+      "Piccolo",
+      "Recorder",
+      "Fife",
+      "Oboe"
+    ],
+    "correctAnswer": "Piccolo"
+  },
+  {
+    "question": "Edvard Grieg composed incidental music for which Henrik Ibsen play?",
+    "options": [
+      "Peer Gynt",
+      "A Doll's House",
+      "Hedda Gabler",
+      "The Wild Duck"
+    ],
+    "correctAnswer": "Peer Gynt"
+  },
+  {
+    "question": "Sergei Rachmaninoff was renowned for playing which instrument at a legendary master level?",
+    "options": [
+      "Piano",
+      "Violin",
+      "Cello",
+      "Organ"
+    ],
+    "correctAnswer": "Piano"
+  },
+  {
+    "question": "What is the primary difference between timpani and standard snare drums?",
+    "options": [
+      "Timpani can be tuned to specific musical pitches",
+      "Timpani use wooden shells only",
+      "Timpani are played without mallets",
+      "Timpani belong to the woodwind family"
+    ],
+    "correctAnswer": "Timpani can be tuned to specific musical pitches"
+  },
+  {
+    "question": "Who composed 'Canon in D', a famous Baroque piece frequently played at weddings?",
+    "options": [
+      "Johann Pachelbel",
+      "Antonio Vivaldi",
+      "Georg Philipp Telemann",
+      "Jean-Philippe Rameau"
+    ],
+    "correctAnswer": "Johann Pachelbel"
+  },
+  {
+    "question": "Robert Schumann had a famous pianist wife who was also a talented composer. What was her name?",
+    "options": [
+      "Clara Schumann",
+      "Fanny Mendelssohn",
+      "Alma Mahler",
+      "Cosima Wagner"
+    ],
+    "correctAnswer": "Clara Schumann"
+  },
+  {
+    "question": "Which keyboard instrument produces sound by forcing pressurized air through pipes?",
+    "options": [
+      "Pipe Organ",
+      "Accordion",
+      "Celesta",
+      "Harpsichord"
+    ],
+    "correctAnswer": "Pipe Organ"
+  },
+  {
+    "question": "Which composer revived public interest in J.S. Bach's music by conducting the 'St. Matthew Passion' in 1829?",
+    "options": [
+      "Felix Mendelssohn",
+      "Franz Liszt",
+      "Johannes Brahms",
+      "Robert Schumann"
+    ],
+    "correctAnswer": "Felix Mendelssohn"
+  },
+  {
+    "question": "Hector Berlioz wrote which groundbreaking program symphony subtitled 'Episode in the Life of an Artist'?",
+    "options": [
+      "Symphonie Fantastique",
+      "Harold in Italy",
+      "Romeo and Juliet",
+      "Requiem"
+    ],
+    "correctAnswer": "Symphonie Fantastique"
+  },
+  {
+    "question": "How many valves does a standard modern trumpet usually have?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correctAnswer": "3"
+  },
+  {
+    "question": "Which English Baroque composer wrote the opera 'Dido and Aeneas'?",
+    "options": [
+      "Henry Purcell",
+      "Thomas Tallis",
+      "William Byrd",
+      "Orlando Gibbons"
+    ],
+    "correctAnswer": "Henry Purcell"
+  },
+  {
+    "question": "Aaron Copland composed which famous American ballet score featuring the Shaker tune 'Simple Gifts'?",
+    "options": [
+      "Appalachian Spring",
+      "Rodeo",
+      "Billy the Kid",
+      "El Salón México"
+    ],
+    "correctAnswer": "Appalachian Spring"
+  },
+  {
+    "question": "What instrument family does the saxophone belong to despite being made mostly of brass?",
+    "options": [
+      "Woodwind",
+      "Brass",
+      "Percussion",
+      "String"
+    ],
+    "correctAnswer": "Woodwind"
+  },
+  {
+    "question": "Sir Edward Elgar composed which famous set of orchestral variations that includes the movement 'Nimrod'?",
+    "options": [
+      "Enigma Variations",
+      "Pomp and Circumstance",
+      "Cello Concerto in E minor",
+      "Cockaigne March"
+    ],
+    "correctAnswer": "Enigma Variations"
+  },
+  {
+    "question": "Who wrote the seminal 1776 economic treatise 'The Wealth of Nations'?",
+    "options": [
+      "Adam Smith",
+      "David Ricardo",
+      "John Maynard Keynes",
+      "Milton Friedman"
+    ],
+    "correctAnswer": "Adam Smith"
+  },
+  {
+    "question": "Which official currency is used by South Africa?",
+    "options": [
+      "Rand",
+      "Pula",
+      "Kwacha",
+      "Shilling"
+    ],
+    "correctAnswer": "Rand"
+  },
+  {
+    "question": "In which city is the headquarters of the World Trade Organization (WTO) located?",
+    "options": [
+      "Geneva",
+      "Brussels",
+      "Vienna",
+      "New York"
+    ],
+    "correctAnswer": "Geneva"
+  },
+  {
+    "question": "Which 19th-century economist is best known for formulating the law of comparative advantage?",
+    "options": [
+      "David Ricardo",
+      "Thomas Malthus",
+      "Karl Marx",
+      "Alfred Marshall"
+    ],
+    "correctAnswer": "David Ricardo"
+  },
+  {
+    "question": "What is the official currency of Poland?",
+    "options": [
+      "Zloty",
+      "Koruna",
+      "Forint",
+      "Leu"
+    ],
+    "correctAnswer": "Zloty"
+  },
+  {
+    "question": "The Bretton Woods Conference of 1944 led to the creation of which two major international financial institutions?",
+    "options": [
+      "IMF and World Bank",
+      "WTO and OECD",
+      "UNCTAD and BIS",
+      "ADB and IDB"
+    ],
+    "correctAnswer": "IMF and World Bank"
+  },
+  {
+    "question": "What is the primary metric measured by the Gini coefficient?",
+    "options": [
+      "Income inequality",
+      "Inflation rate",
+      "Gross domestic product growth",
+      "National debt ratio"
+    ],
+    "correctAnswer": "Income inequality"
+  },
+  {
+    "question": "What is the official currency of South Korea?",
+    "options": [
+      "Won",
+      "Yen",
+      "Yuan",
+      "Ringgit"
+    ],
+    "correctAnswer": "Won"
+  },
+  {
+    "question": "In economic terms, what is a tariff?",
+    "options": [
+      "A tax imposed on imported goods and services",
+      "A subsidy given to domestic exporters",
+      "A limit on the quantity of imported goods",
+      "A government cap on product prices"
+    ],
+    "correctAnswer": "A tax imposed on imported goods and services"
+  },
+  {
+    "question": "Which organization publishes standard trade definitions known as Incoterms?",
+    "options": [
+      "International Chamber of Commerce",
+      "World Trade Organization",
+      "International Monetary Fund",
+      "United Nations Conference on Trade and Development"
+    ],
+    "correctAnswer": "International Chamber of Commerce"
+  },
+  {
+    "question": "Which country became the first in the world to adopt Bitcoin as legal tender in September 2021?",
+    "options": [
+      "El Salvador",
+      "Central African Republic",
+      "Panama",
+      "Paraguay"
+    ],
+    "correctAnswer": "El Salvador"
+  },
+  {
+    "question": "What does the acronym GATT stand for in international trade history?",
+    "options": [
+      "General Agreement on Tariffs and Trade",
+      "Global Alliance for Trade and Tariffs",
+      "General Association of Trade and Taxes",
+      "Global Agreement on Taxation and Trade"
+    ],
+    "correctAnswer": "General Agreement on Tariffs and Trade"
+  },
+  {
+    "question": "What is the official currency of Israel?",
+    "options": [
+      "New Shekel",
+      "Dinar",
+      "Riyal",
+      "Lira"
+    ],
+    "correctAnswer": "New Shekel"
+  },
+  {
+    "question": "The Phillips Curve demonstrates an inverse relationship between which two economic variables in the short run?",
+    "options": [
+      "Inflation and unemployment",
+      "Interest rates and inflation",
+      "GDP growth and national debt",
+      "Savings and investment"
+    ],
+    "correctAnswer": "Inflation and unemployment"
+  },
+  {
+    "question": "What is the official currency of Thailand?",
+    "options": [
+      "Baht",
+      "Dong",
+      "Kip",
+      "Rupiah"
+    ],
+    "correctAnswer": "Baht"
+  },
+  {
+    "question": "Where is the headquarters of the Organization of the Petroleum Exporting Countries (OPEC) located?",
+    "options": [
+      "Vienna",
+      "Riyadh",
+      "Geneva",
+      "Abu Dhabi"
+    ],
+    "correctAnswer": "Vienna"
+  },
+  {
+    "question": "What economic term describes a situation characterized by simultaneous high inflation, stagnant economic growth, and high unemployment?",
+    "options": [
+      "Stagflation",
+      "Hyperinflation",
+      "Deflation",
+      "Recession"
+    ],
+    "correctAnswer": "Stagflation"
+  },
+  {
+    "question": "Which international reserve asset was created by the IMF in 1969 to supplement member countries' official reserves?",
+    "options": [
+      "Special Drawing Rights",
+      "Gold Standard Units",
+      "Eurodollars",
+      "Global Trade Credits"
+    ],
+    "correctAnswer": "Special Drawing Rights"
+  },
+  {
+    "question": "What is the official currency of Brazil?",
+    "options": [
+      "Real",
+      "Peso",
+      "Sol",
+      "Bolivar"
+    ],
+    "correctAnswer": "Real"
+  },
+  {
+    "question": "Which trade agreement replaced the North American Free Trade Agreement (NAFTA) in July 2020?",
+    "options": [
+      "USMCA",
+      "TPP",
+      "CAFTA-DR",
+      "FTAA"
+    ],
+    "correctAnswer": "USMCA"
+  },
+  {
+    "question": "What is the official currency of Sweden?",
+    "options": [
+      "Krona",
+      "Krone",
+      "Markka",
+      "Euro"
+    ],
+    "correctAnswer": "Krona"
+  },
+  {
+    "question": "What term describes a market structure dominated by a small number of large sellers?",
+    "options": [
+      "Oligopoly",
+      "Monopoly",
+      "Monopsony",
+      "Perfect competition"
+    ],
+    "correctAnswer": "Oligopoly"
+  },
+  {
+    "question": "Which official currency is used in Vietnam?",
+    "options": [
+      "Dong",
+      "Riel",
+      "Kyat",
+      "Pataca"
+    ],
+    "correctAnswer": "Dong"
+  },
+  {
+    "question": "Which economist authored 'The General Theory of Employment, Interest and Money' in 1936?",
+    "options": [
+      "John Maynard Keynes",
+      "Milton Friedman",
+      "Friedrich Hayek",
+      "Joseph Schumpeter"
+    ],
+    "correctAnswer": "John Maynard Keynes"
+  },
+  {
+    "question": "What is the official currency of Nigeria?",
+    "options": [
+      "Naira",
+      "Cedi",
+      "Birr",
+      "Shilling"
+    ],
+    "correctAnswer": "Naira"
+  },
+  {
+    "question": "Where is the headquarters of the Association of Southeast Asian Nations (ASEAN) Secretariat located?",
+    "options": [
+      "Jakarta",
+      "Bangkok",
+      "Singapore",
+      "Kuala Lumpur"
+    ],
+    "correctAnswer": "Jakarta"
+  },
+  {
+    "question": "What is the official currency of Turkey?",
+    "options": [
+      "Lira",
+      "Dinar",
+      "Dirham",
+      "Rial"
+    ],
+    "correctAnswer": "Lira"
+  },
+  {
+    "question": "In what year were physical Euro banknotes and coins introduced into general circulation?",
+    "options": [
+      "2002",
+      "1999",
+      "2000",
+      "2004"
+    ],
+    "correctAnswer": "2002"
+  },
+  {
+    "question": "What is the official currency of Hungary?",
+    "options": [
+      "Forint",
+      "Koruna",
+      "Leu",
+      "Dinar"
+    ],
+    "correctAnswer": "Forint"
+  },
+  {
+    "question": "What economic metric measures the monetary value of all final goods and services produced within a nation in a given period?",
+    "options": [
+      "Gross Domestic Product",
+      "Gross National Product",
+      "Net National Product",
+      "National Disposable Income"
+    ],
+    "correctAnswer": "Gross Domestic Product"
+  },
+  {
+    "question": "What is the official currency of Saudi Arabia?",
+    "options": [
+      "Riyal",
+      "Dirham",
+      "Dinar",
+      "Rupiah"
+    ],
+    "correctAnswer": "Riyal"
+  },
+  {
+    "question": "Which South American trade bloc was established by the Treaty of Asunción in 1991?",
+    "options": [
+      "Mercosur",
+      "Andean Community",
+      "Pacific Alliance",
+      "CARICOM"
+    ],
+    "correctAnswer": "Mercosur"
+  },
+  {
+    "question": "What is the official currency of the United Arab Emirates?",
+    "options": [
+      "Dirham",
+      "Riyal",
+      "Dinar",
+      "Pound"
+    ],
+    "correctAnswer": "Dirham"
+  },
+  {
+    "question": "What term is used for a market condition where a single buyer controls the purchase of goods or services from many suppliers?",
+    "options": [
+      "Monopsony",
+      "Monopoly",
+      "Oligopoly",
+      "Duopoly"
+    ],
+    "correctAnswer": "Monopsony"
+  },
+  {
+    "question": "What is the official currency of Malaysia?",
+    "options": [
+      "Ringgit",
+      "Rupiah",
+      "Baht",
+      "Dollar"
+    ],
+    "correctAnswer": "Ringgit"
+  },
+  {
+    "question": "In which city is the headquarters of the World Bank Group located?",
+    "options": [
+      "Washington, D.C.",
+      "New York",
+      "London",
+      "Paris"
+    ],
+    "correctAnswer": "Washington, D.C."
+  },
+  {
+    "question": "What is the official currency of Japan?",
+    "options": [
+      "Yen",
+      "Yuan",
+      "Won",
+      "Taka"
+    ],
+    "correctAnswer": "Yen"
+  },
+  {
+    "question": "Which economist popularized the term 'creative destruction' to describe innovation driving industrial transformation?",
+    "options": [
+      "Joseph Schumpeter",
+      "Karl Marx",
+      "Adam Smith",
+      "Paul Samuelson"
+    ],
+    "correctAnswer": "Joseph Schumpeter"
+  },
+  {
+    "question": "What is the official currency of India?",
+    "options": [
+      "Indian Rupee",
+      "Rupiah",
+      "Taka",
+      "Kyat"
+    ],
+    "correctAnswer": "Indian Rupee"
+  },
+  {
+    "question": "Which international institution publishes the biannual 'World Economic Outlook' report?",
+    "options": [
+      "International Monetary Fund",
+      "World Bank",
+      "World Economic Forum",
+      "United Nations"
+    ],
+    "correctAnswer": "International Monetary Fund"
+  },
+  {
+    "question": "What is the official currency of Switzerland?",
+    "options": [
+      "Swiss Franc",
+      "Euro",
+      "Krona",
+      "Mark"
+    ],
+    "correctAnswer": "Swiss Franc"
+  },
+  {
+    "question": "What term describes an official government prohibition on trade or economic interaction with a particular country?",
+    "options": [
+      "Embargo",
+      "Quota",
+      "Tariff",
+      "Subsidy"
+    ],
+    "correctAnswer": "Embargo"
+  },
+  {
+    "question": "What is the official currency of the Philippines?",
+    "options": [
+      "Philippine Peso",
+      "Real",
+      "Escudo",
+      "Rupiah"
+    ],
+    "correctAnswer": "Philippine Peso"
+  },
+  {
+    "question": "What microeconomic law states that, ceteris paribus, as the price of a product increases, consumer demand for it decreases?",
+    "options": [
+      "Law of Demand",
+      "Law of Supply",
+      "Law of Diminishing Marginal Utility",
+      "Say's Law"
+    ],
+    "correctAnswer": "Law of Demand"
+  },
+  {
+    "question": "What is the official currency of Egypt?",
+    "options": [
+      "Egyptian Pound",
+      "Dinar",
+      "Dirham",
+      "Riyal"
+    ],
+    "correctAnswer": "Egyptian Pound"
+  },
+  {
+    "question": "What is the name of the central bank responsible for monetary policy in the Eurozone?",
+    "options": [
+      "European Central Bank",
+      "Bank of England",
+      "Federal Reserve System",
+      "Bank for International Settlements"
+    ],
+    "correctAnswer": "European Central Bank"
+  },
+  {
+    "question": "What is the official currency of Indonesia?",
+    "options": [
+      "Rupiah",
+      "Ringgit",
+      "Baht",
+      "Riel"
+    ],
+    "correctAnswer": "Rupiah"
+  },
+  {
+    "question": "Which economist was a leading proponent of monetarism and authored 'Capitalism and Freedom'?",
+    "options": [
+      "Milton Friedman",
+      "John Maynard Keynes",
+      "Thomas Piketty",
+      "Paul Krugman"
+    ],
+    "correctAnswer": "Milton Friedman"
+  },
+  {
+    "question": "What is the official currency of Argentina?",
+    "options": [
+      "Argentine Peso",
+      "Bolivar",
+      "Real",
+      "Guarani"
+    ],
+    "correctAnswer": "Argentine Peso"
+  },
+  {
+    "question": "What is the primary function of the Bank for International Settlements (BIS), based in Basel, Switzerland?",
+    "options": [
+      "Fostering international monetary and financial cooperation among central banks",
+      "Providing direct development loans to developing nations",
+      "Resolving international trade disputes between sovereign states",
+      "Issuing paper currency for European countries"
+    ],
+    "correctAnswer": "Fostering international monetary and financial cooperation among central banks"
+  },
+  {
+    "question": "How many bones are in the average adult human body?",
+    "options": [
+      "206",
+      "186",
+      "226",
+      "256"
+    ],
+    "correctAnswer": "206"
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "options": [
+      "Stapes",
+      "Malleus",
+      "Incus",
+      "Hyoid"
+    ],
+    "correctAnswer": "Stapes"
+  },
+  {
+    "question": "Which organ is the largest by both weight and surface area in the human body?",
+    "options": [
+      "Skin",
+      "Liver",
+      "Brain",
+      "Lungs"
+    ],
+    "correctAnswer": "Skin"
+  },
+  {
+    "question": "What is the primary functional unit of the human kidney?",
+    "options": [
+      "Nephron",
+      "Neuron",
+      "Alveolus",
+      "Hepatocyte"
+    ],
+    "correctAnswer": "Nephron"
+  },
+  {
+    "question": "Which medical term refers to red blood cells?",
+    "options": [
+      "Erythrocytes",
+      "Leukocytes",
+      "Thrombocytes",
+      "Lymphocytes"
+    ],
+    "correctAnswer": "Erythrocytes"
+  },
+  {
+    "question": "Which gland is commonly known as the 'master gland' of the endocrine system?",
+    "options": [
+      "Pituitary gland",
+      "Thyroid gland",
+      "Adrenal gland",
+      "Pancreas"
+    ],
+    "correctAnswer": "Pituitary gland"
+  },
+  {
+    "question": "Which valve separates the left atrium and left ventricle of the heart?",
+    "options": [
+      "Mitral valve",
+      "Tricuspid valve",
+      "Aortic valve",
+      "Pulmonary valve"
+    ],
+    "correctAnswer": "Mitral valve"
+  },
+  {
+    "question": "What connective tissue attaches muscle to bone?",
+    "options": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Fascia"
+    ],
+    "correctAnswer": "Tendon"
+  },
+  {
+    "question": "Which section of the brain is primarily responsible for motor control and physical balance?",
+    "options": [
+      "Cerebellum",
+      "Cerebrum",
+      "Brainstem",
+      "Thalamus"
+    ],
+    "correctAnswer": "Cerebellum"
+  },
+  {
+    "question": "What is the hardest substance found in the human body?",
+    "options": [
+      "Tooth enamel",
+      "Femur bone",
+      "Dentin",
+      "Nails"
+    ],
+    "correctAnswer": "Tooth enamel"
+  },
+  {
+    "question": "Which vitamin deficiency is responsible for causing scurvy?",
+    "options": [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin B12"
+    ],
+    "correctAnswer": "Vitamin C"
+  },
+  {
+    "question": "Which hormone is produced by the beta cells of the pancreas to lower blood glucose levels?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Cortisol",
+      "Thyroxine"
+    ],
+    "correctAnswer": "Insulin"
+  },
+  {
+    "question": "What is the medical name for the voice box?",
+    "options": [
+      "Larynx",
+      "Pharynx",
+      "Trachea",
+      "Esophagus"
+    ],
+    "correctAnswer": "Larynx"
+  },
+  {
+    "question": "Which part of the human eye regulates the amount of light that enters?",
+    "options": [
+      "Iris",
+      "Retina",
+      "Cornea",
+      "Lens"
+    ],
+    "correctAnswer": "Iris"
+  },
+  {
+    "question": "Where in the human digestive system does the majority of nutrient absorption take place?",
+    "options": [
+      "Small intestine",
+      "Stomach",
+      "Large intestine",
+      "Esophagus"
+    ],
+    "correctAnswer": "Small intestine"
+  },
+  {
+    "question": "Which type of blood cell is responsible for oxygen transport?",
+    "options": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "correctAnswer": "Red blood cells"
+  },
+  {
+    "question": "Which structure connects bone to bone across a joint?",
+    "options": [
+      "Ligament",
+      "Tendon",
+      "Cartilage",
+      "Suture"
+    ],
+    "correctAnswer": "Ligament"
+  },
+  {
+    "question": "What is the longest and strongest bone in the human body?",
+    "options": [
+      "Femur",
+      "Tibia",
+      "Fibula",
+      "Humerus"
+    ],
+    "correctAnswer": "Femur"
+  },
+  {
+    "question": "Where is human bile produced?",
+    "options": [
+      "Liver",
+      "Gallbladder",
+      "Pancreas",
+      "Spleen"
+    ],
+    "correctAnswer": "Liver"
+  },
+  {
+    "question": "Where is human bile stored before being released into the digestive tract?",
+    "options": [
+      "Gallbladder",
+      "Liver",
+      "Duodenum",
+      "Stomach"
+    ],
+    "correctAnswer": "Gallbladder"
+  },
+  {
+    "question": "What is the anatomical name for the kneecap?",
+    "options": [
+      "Patella",
+      "Scapula",
+      "Clavicle",
+      "Sternum"
+    ],
+    "correctAnswer": "Patella"
+  },
+  {
+    "question": "Which blood type is considered the universal red blood cell donor?",
+    "options": [
+      "O negative",
+      "O positive",
+      "AB positive",
+      "AB negative"
+    ],
+    "correctAnswer": "O negative"
+  },
+  {
+    "question": "What tiny air sacs in the lungs are the primary site of gas exchange?",
+    "options": [
+      "Alveoli",
+      "Bronchioles",
+      "Bronchi",
+      "Tracheoles"
+    ],
+    "correctAnswer": "Alveoli"
+  },
+  {
+    "question": "Which layer of skin lies directly beneath the epidermis?",
+    "options": [
+      "Dermis",
+      "Hypodermis",
+      "Subcutis",
+      "Stratum corneum"
+    ],
+    "correctAnswer": "Dermis"
+  },
+  {
+    "question": "Which hormone is secreted by the adrenal glands during acute stress ('fight-or-flight')?",
+    "options": [
+      "Epinephrine",
+      "Melatonin",
+      "Insulin",
+      "Oxytocin"
+    ],
+    "correctAnswer": "Epinephrine"
+  },
+  {
+    "question": "Which disease is caused by a deficiency of Vitamin D in children?",
+    "options": [
+      "Rickets",
+      "Beriberi",
+      "Pellagra",
+      "Scurvy"
+    ],
+    "correctAnswer": "Rickets"
+  },
+  {
+    "question": "What is the anatomical name for the collarbone?",
+    "options": [
+      "Clavicle",
+      "Scapula",
+      "Sternum",
+      "Radius"
+    ],
+    "correctAnswer": "Clavicle"
+  },
+  {
+    "question": "Which part of the brain controls vital autonomic functions like heart rate and respiration?",
+    "options": [
+      "Medulla oblongata",
+      "Cerebellum",
+      "Corpus callosum",
+      "Hippocampus"
+    ],
+    "correctAnswer": "Medulla oblongata"
+  },
+  {
+    "question": "What enzyme found in human saliva begins the breakdown of starches into simple sugars?",
+    "options": [
+      "Amylase",
+      "Pepsin",
+      "Lipase",
+      "Trypsin"
+    ],
+    "correctAnswer": "Amylase"
+  },
+  {
+    "question": "Which medical term refers to blood platelets?",
+    "options": [
+      "Thrombocytes",
+      "Leukocytes",
+      "Erythrocytes",
+      "Monocytes"
+    ],
+    "correctAnswer": "Thrombocytes"
+  },
+  {
+    "question": "Which portion of the small intestine directly connects to the stomach?",
+    "options": [
+      "Duodenum",
+      "Jejunum",
+      "Ileum",
+      "Cecum"
+    ],
+    "correctAnswer": "Duodenum"
+  },
+  {
+    "question": "What is the normal approximate physiological pH of human arterial blood?",
+    "options": [
+      "7.40",
+      "6.80",
+      "7.00",
+      "7.80"
+    ],
+    "correctAnswer": "7.40"
+  },
+  {
+    "question": "What fluid cushions the central nervous system within the skull and spinal column?",
+    "options": [
+      "Cerebrospinal fluid",
+      "Synovial fluid",
+      "Lymph",
+      "Intercellular fluid"
+    ],
+    "correctAnswer": "Cerebrospinal fluid"
+  },
+  {
+    "question": "Which part of the ear contains the auditory sensory organ responsible for hearing?",
+    "options": [
+      "Cochlea",
+      "Tympanic membrane",
+      "Semicircular canals",
+      "Eustachian tube"
+    ],
+    "correctAnswer": "Cochlea"
+  },
+  {
+    "question": "Which mineral is required for thyroid hormone synthesis?",
+    "options": [
+      "Iodine",
+      "Iron",
+      "Calcium",
+      "Zinc"
+    ],
+    "correctAnswer": "Iodine"
+  },
+  {
+    "question": "What is the basic functional unit of the human nervous system?",
+    "options": [
+      "Neuron",
+      "Glial cell",
+      "Axon",
+      "Synapse"
+    ],
+    "correctAnswer": "Neuron"
+  },
+  {
+    "question": "Which condition is characterized by a deficiency in red blood cells or hemoglobin concentration?",
+    "options": [
+      "Anemia",
+      "Leukemia",
+      "Polycythemia",
+      "Hemophilia"
+    ],
+    "correctAnswer": "Anemia"
+  },
+  {
+    "question": "Which muscle separates the thoracic cavity from the abdominal cavity and plays a central role in respiration?",
+    "options": [
+      "Diaphragm",
+      "Intercostal muscle",
+      "Rectus abdominis",
+      "Pectoralis major"
+    ],
+    "correctAnswer": "Diaphragm"
+  },
+  {
+    "question": "What is the anatomical term for the shoulder blade?",
+    "options": [
+      "Scapula",
+      "Clavicle",
+      "Humerus",
+      "Sternum"
+    ],
+    "correctAnswer": "Scapula"
+  },
+  {
+    "question": "Which gland produces melatonin to help regulate circadian rhythms?",
+    "options": [
+      "Pineal gland",
+      "Pituitary gland",
+      "Thyroid gland",
+      "Adrenal gland"
+    ],
+    "correctAnswer": "Pineal gland"
+  },
+  {
+    "question": "Which chamber of the human heart pumps oxygenated blood out to the rest of the body via the aorta?",
+    "options": [
+      "Left ventricle",
+      "Right ventricle",
+      "Left atrium",
+      "Right atrium"
+    ],
+    "correctAnswer": "Left ventricle"
+  },
+  {
+    "question": "Which deficiency causes the metabolic condition known as pellagra?",
+    "options": [
+      "Niacin (Vitamin B3)",
+      "Thiamine (Vitamin B1)",
+      "Riboflavin (Vitamin B2)",
+      "Folate (Vitamin B9)"
+    ],
+    "correctAnswer": "Niacin (Vitamin B3)"
+  },
+  {
+    "question": "What type of joint allows for the greatest range of motion, such as in the hip and shoulder?",
+    "options": [
+      "Ball-and-socket joint",
+      "Hinge joint",
+      "Pivot joint",
+      "Saddle joint"
+    ],
+    "correctAnswer": "Ball-and-socket joint"
+  },
+  {
+    "question": "Which blood vessel type carries blood back toward the heart, typically containing valves?",
+    "options": [
+      "Veins",
+      "Arteries",
+      "Capillaries",
+      "Arterioles"
+    ],
+    "correctAnswer": "Veins"
+  },
+  {
+    "question": "What component makes up the majority of human blood by volume?",
+    "options": [
+      "Plasma",
+      "Red blood cells",
+      "White blood cells",
+      "Platelets"
+    ],
+    "correctAnswer": "Plasma"
+  },
+  {
+    "question": "Which cranial nerve is primarily responsible for transmitting visual information from the retina to the brain?",
+    "options": [
+      "Optic nerve (CN II)",
+      "Olfactory nerve (CN I)",
+      "Oculomotor nerve (CN III)",
+      "Vagus nerve (CN X)"
+    ],
+    "correctAnswer": "Optic nerve (CN II)"
+  },
+  {
+    "question": "Where are red blood cells produced in an adult human body?",
+    "options": [
+      "Red bone marrow",
+      "Spleen",
+      "Liver",
+      "Lymph nodes"
+    ],
+    "correctAnswer": "Red bone marrow"
+  },
+  {
+    "question": "Which disease occurs due to an autoimmune destruction of insulin-producing beta cells in the pancreas?",
+    "options": [
+      "Type 1 Diabetes",
+      "Type 2 Diabetes",
+      "Diabetes Insipidus",
+      "Cushing's Syndrome"
+    ],
+    "correctAnswer": "Type 1 Diabetes"
+  },
+  {
+    "question": "What structural tissue coats the articulating surfaces of bones in synovial joints to reduce friction?",
+    "options": [
+      "Hyaline cartilage",
+      "Fibrocortical bone",
+      "Elastic cartilage",
+      "Periosteum"
+    ],
+    "correctAnswer": "Hyaline cartilage"
+  },
+  {
+    "question": "Which cell organelle is responsible for generating most of the cell's ATP during cellular respiration?",
+    "options": [
+      "Mitochondrion",
+      "Ribosome",
+      "Endoplasmic reticulum",
+      "Golgi apparatus"
+    ],
+    "correctAnswer": "Mitochondrion"
+  },
+  {
+    "question": "Which German philosopher introduced the concept of the 'Categorical Imperative' as a foundational principle in deontological ethics?",
+    "options": [
+      "Immanuel Kant",
+      "Friedrich Nietzsche",
+      "Georg Wilhelm Friedrich Hegel",
+      "Arthur Schopenhauer"
+    ],
+    "correctAnswer": "Immanuel Kant"
+  },
+  {
+    "question": "Which 1648 peace accord ended the Thirty Years' War and helped establish the modern system of sovereign nation-states?",
+    "options": [
+      "Treaty of Utrecht",
+      "Treaty of Westphalia",
+      "Treaty of Aix-la-Chapelle",
+      "Treaty of Nimwegen"
+    ],
+    "correctAnswer": "Treaty of Westphalia"
+  },
+  {
+    "question": "In which foundational philosophical text does René Descartes formulate his famous statement 'Cogito, ergo sum'?",
+    "options": [
+      "Discourse on the Method",
+      "Meditations on First Philosophy",
+      "Principles of Philosophy",
+      "Rules for the Direction of the Mind"
+    ],
+    "correctAnswer": "Discourse on the Method"
+  },
+  {
+    "question": "Signed in 1494, the Treaty of Tordesillas divided newly discovered lands outside Europe between which two colonial powers?",
+    "options": [
+      "Britain and France",
+      "Spain and Portugal",
+      "Spain and Britain",
+      "Portugal and the Netherlands"
+    ],
+    "correctAnswer": "Spain and Portugal"
+  },
+  {
+    "question": "Which political philosopher argued in 'Leviathan' (1651) that life in a state of nature is 'solitary, poor, nasty, brutish, and short'?",
+    "options": [
+      "John Locke",
+      "Jean-Jacques Rousseau",
+      "Thomas Hobbes",
+      "Baruch Spinoza"
+    ],
+    "correctAnswer": "Thomas Hobbes"
+  },
+  {
+    "question": "Which famous clause in the 1919 Treaty of Versailles explicitly placed sole responsibility for starting World War I on Germany and its allies?",
+    "options": [
+      "Article 10",
+      "Article 231",
+      "Article 42",
+      "Article 119"
+    ],
+    "correctAnswer": "Article 231"
+  },
+  {
+    "question": "Which English philosopher articulated the idea of the mind as a blank slate or 'tabula rasa' in his work 'An Essay Concerning Human Understanding'?",
+    "options": [
+      "George Berkeley",
+      "David Hume",
+      "John Locke",
+      "Francis Bacon"
+    ],
+    "correctAnswer": "John Locke"
+  },
+  {
+    "question": "The Treaty of Utrecht (1713) brought an end to which major European conflict?",
+    "options": [
+      "Seven Years' War",
+      "War of the Spanish Succession",
+      "War of the Austrian Succession",
+      "Thirty Years' War"
+    ],
+    "correctAnswer": "War of the Spanish Succession"
+  },
+  {
+    "question": "Which French thinker opened his famous 1762 treatise 'The Social Contract' with the statement 'Man is born free, and everywhere he is in chains'?",
+    "options": [
+      "Voltaire",
+      "Montesquieu",
+      "Jean-Jacques Rousseau",
+      "Denis Diderot"
+    ],
+    "correctAnswer": "Jean-Jacques Rousseau"
+  },
+  {
+    "question": "Which 1783 treaty officially recognized the independence of the United States from Great Britain?",
+    "options": [
+      "Treaty of Ghent",
+      "Treaty of Paris",
+      "Treaty of Versailles",
+      "Treaty of London"
+    ],
+    "correctAnswer": "Treaty of Paris"
+  },
+  {
+    "question": "17th-century Jewish-Dutch philosopher Baruch Spinoza was best known for advocating which metaphysical perspective?",
+    "options": [
+      "Dualism",
+      "Pantheism",
+      "Subjective Idealism",
+      "Logical Positivism"
+    ],
+    "correctAnswer": "Pantheism"
+  },
+  {
+    "question": "The 1918 Treaty of Brest-Litovsk marked the official withdrawal of which country from World War I?",
+    "options": [
+      "Ottoman Empire",
+      "Kingdom of Bulgaria",
+      "Russian SFSR",
+      "Austro-Hungarian Empire"
+    ],
+    "correctAnswer": "Russian SFSR"
+  },
+  {
+    "question": "Which 19th-century philosopher coined the terms 'Übermensch' and 'Will to Power' in philosophical works such as 'Thus Spoke Zarathustra'?",
+    "options": [
+      "Søren Kierkegaard",
+      "Friedrich Nietzsche",
+      "Arthur Schopenhauer",
+      "Martin Heidegger"
+    ],
+    "correctAnswer": "Friedrich Nietzsche"
+  },
+  {
+    "question": "Which treaty, signed in December 1814, officially ended the War of 1812 between the United States and the United Kingdom?",
+    "options": [
+      "Treaty of Ghent",
+      "Treaty of Paris",
+      "Adams-Onís Treaty",
+      "Treaty of Rush-Bagot"
+    ],
+    "correctAnswer": "Treaty of Ghent"
+  },
+  {
+    "question": "Which Scottish philosopher published 'A Treatise of Human Nature' and expressed deep skepticism regarding causality and inductive reasoning?",
+    "options": [
+      "Adam Smith",
+      "David Hume",
+      "Thomas Reid",
+      "Francis Hutcheson"
+    ],
+    "correctAnswer": "David Hume"
+  },
+  {
+    "question": "Which 1923 peace agreement settled the Anatolian border disputes resulting from WWI and established the international recognition of the modern Republic of Turkey?",
+    "options": [
+      "Treaty of Sèvres",
+      "Treaty of Lausanne",
+      "Treaty of Neuilly",
+      "Treaty of San Stefano"
+    ],
+    "correctAnswer": "Treaty of Lausanne"
+  },
+  {
+    "question": "What is the subtitle of Karl Marx's landmark economic and philosophical treatise 'Das Kapital'?",
+    "options": [
+      "Critique of Political Economy",
+      "Principles of Political Economy",
+      "Critique of Pure Reason",
+      "The Poverty of Philosophy"
+    ],
+    "correctAnswer": "Critique of Political Economy"
+  },
+  {
+    "question": "Signed in 1840, the Treaty of Waitangi is considered a founding document of which modern nation?",
+    "options": [
+      "Australia",
+      "South Africa",
+      "New Zealand",
+      "Canada"
+    ],
+    "correctAnswer": "New Zealand"
+  },
+  {
+    "question": "Which 19th-century Danish thinker is widely considered the father of Christian existentialism?",
+    "options": [
+      "Søren Kierkegaard",
+      "Henrik Ibsen",
+      "Karl Barth",
+      "Ludwig Feuerbach"
+    ],
+    "correctAnswer": "Søren Kierkegaard"
+  },
+  {
+    "question": "Which treaty ended the First Opium War in 1842 and resulted in China ceding Hong Kong Island to Great Britain?",
+    "options": [
+      "Treaty of Tianjin",
+      "Treaty of Nanking",
+      "Treaty of Beijing",
+      "Treaty of Shimonoseki"
+    ],
+    "correctAnswer": "Treaty of Nanking"
+  },
+  {
+    "question": "Which philosopher authored the 1818 work 'The World as Will and Representation', emphasizing the role of blind desire in reality?",
+    "options": [
+      "Arthur Schopenhauer",
+      "Gottfried Wilhelm Leibniz",
+      "Friedrich Schelling",
+      "Johann Gottlieb Fichte"
+    ],
+    "correctAnswer": "Arthur Schopenhauer"
+  },
+  {
+    "question": "US President Theodore Roosevelt was awarded the Nobel Peace Prize for negotiating which treaty that ended the Russo-Japanese War?",
+    "options": [
+      "Treaty of Portsmouth",
+      "Treaty of Plymouth",
+      "Treaty of San Francisco",
+      "Treaty of Washington"
+    ],
+    "correctAnswer": "Treaty of Portsmouth"
+  },
+  {
+    "question": "Which German polymath asserted that our universe is 'the best of all possible worlds' in his philosophical work 'Theodicy'?",
+    "options": [
+      "Gottfried Wilhelm Leibniz",
+      "Christian Wolff",
+      "Immanuel Kant",
+      "Moses Mendelssohn"
+    ],
+    "correctAnswer": "Gottfried Wilhelm Leibniz"
+  },
+  {
+    "question": "By which treaty signed in 1848 did Mexico cede over 50 percent of its territory to the United States following military defeat?",
+    "options": [
+      "Treaty of Guadalupe Hidalgo",
+      "Gadsden Purchase Treaty",
+      "Treaty of Velasco",
+      "Adams-Onís Treaty"
+    ],
+    "correctAnswer": "Treaty of Guadalupe Hidalgo"
+  },
+  {
+    "question": "Islamic Golden Age philosopher Ibn Sina, who combined Aristotelianism with Neoplatonism, is better known in the Western world by what name?",
+    "options": [
+      "Averroes",
+      "Avicenna",
+      "Al-Kindi",
+      "Al-Farabi"
+    ],
+    "correctAnswer": "Avicenna"
+  },
+  {
+    "question": "The Lateran Treaty of 1929 was signed between the Kingdom of Italy and the Holy See under the regime of which Italian leader?",
+    "options": [
+      "Benito Mussolini",
+      "Victor Emmanuel III",
+      "Alcide De Gasperi",
+      "Francesco Crispi"
+    ],
+    "correctAnswer": "Benito Mussolini"
+  },
+  {
+    "question": "Which Andalusian-Arab philosopher, known in Europe as 'The Commentator', wrote extensive works defending philosophy against Al-Ghazali's criticisms?",
+    "options": [
+      "Averroes",
+      "Avicenna",
+      "Ibn Khaldun",
+      "Ibn Tufail"
+    ],
+    "correctAnswer": "Averroes"
+  },
+  {
+    "question": "Signed in 1957, the Treaty of Rome established which international organization that served as a precursor to the European Union?",
+    "options": [
+      "European Coal and Steel Community",
+      "European Economic Community",
+      "European Free Trade Association",
+      "Council of Europe"
+    ],
+    "correctAnswer": "European Economic Community"
+  },
+  {
+    "question": "In which massive theological and philosophical work did Thomas Aquinas formulate his 'Five Proofs' (Quinque Viae) for the existence of God?",
+    "options": [
+      "Summa Theologiae",
+      "Summa contra Gentiles",
+      "De Veritate",
+      "Sententiae"
+    ],
+    "correctAnswer": "Summa Theologiae"
+  },
+  {
+    "question": "Which 1992 agreement formally created the European Union and paved the way for the establishment of the single European currency, the Euro?",
+    "options": [
+      "Maastricht Treaty",
+      "Lisbon Treaty",
+      "Treaty of Amsterdam",
+      "Schengen Agreement"
+    ],
+    "correctAnswer": "Maastricht Treaty"
+  },
+  {
+    "question": "Which British philosopher articulated the 'Harm Principle' as the guiding limit on state intervention over individual liberty in his essay 'On Liberty'?",
+    "options": [
+      "John Stuart Mill",
+      "Jeremy Bentham",
+      "Herbert Spencer",
+      "Henry Sidgwick"
+    ],
+    "correctAnswer": "John Stuart Mill"
+  },
+  {
+    "question": "The Adams-Onís Treaty of 1819 resulted in the cession of which territory to the United States by Spain?",
+    "options": [
+      "Louisiana",
+      "Florida",
+      "Texas",
+      "California"
+    ],
+    "correctAnswer": "Florida"
+  },
+  {
+    "question": "Which 20th-century philosopher was the author of the 'Tractatus Logico-Philosophicus', concluding that 'Whereof one cannot speak, thereof one must be silent'?",
+    "options": [
+      "Ludwig Wittgenstein",
+      "Bertrand Russell",
+      "Gottlob Frege",
+      "Karl Popper"
+    ],
+    "correctAnswer": "Ludwig Wittgenstein"
+  },
+  {
+    "question": "Which treaty ended the First Sino-Japanese War in 1895, forcing Qing-dynasty China to recognize the independence of Korea and cede Taiwan to Japan?",
+    "options": [
+      "Treaty of Shimonoseki",
+      "Treaty of Beijing",
+      "Treaty of Portsmouth",
+      "Treaty of Tianjin"
+    ],
+    "correctAnswer": "Treaty of Shimonoseki"
+  },
+  {
+    "question": "Which philosopher co-authored the foundational three-volume work on mathematical logic, 'Principia Mathematica', alongside Alfred North Whitehead?",
+    "options": [
+      "Bertrand Russell",
+      "G.E. Moore",
+      "A.J. Ayer",
+      "Willard Van Orman Quine"
+    ],
+    "correctAnswer": "Bertrand Russell"
+  },
+  {
+    "question": "Which post-WWI treaty, signed in 1920, resulted in Hungary losing over two-thirds of its former territory and population?",
+    "options": [
+      "Treaty of Trianon",
+      "Treaty of Saint-Germain-en-Laye",
+      "Treaty of Neuilly-sur-Seine",
+      "Treaty of Sèvres"
+    ],
+    "correctAnswer": "Treaty of Trianon"
+  },
+  {
+    "question": "Which French existentialist philosopher declared 'One is not born, but rather becomes, a woman' in her 1949 work 'The Second Sex'?",
+    "options": [
+      "Simone de Beauvoir",
+      "Hannah Arendt",
+      "Simone Weil",
+      "Julia Kristeva"
+    ],
+    "correctAnswer": "Simone de Beauvoir"
+  },
+  {
+    "question": "Which 1919 post-WWI peace treaty formally dissolved the Austro-Hungarian Empire and recognized the independence of Poland, Czechoslovakia, and Yugoslavia?",
+    "options": [
+      "Treaty of Saint-Germain-en-Laye",
+      "Treaty of Trianon",
+      "Treaty of Rapallo",
+      "Treaty of Lausanne"
+    ],
+    "correctAnswer": "Treaty of Saint-Germain-en-Laye"
+  },
+  {
+    "question": "Political theorist Hannah Arendt coined the famous phrase 'the banality of evil' while reporting on the trial of which Nazi war criminal?",
+    "options": [
+      "Adolf Eichmann",
+      "Klaus Barbie",
+      "Albert Speer",
+      "Hermann Göring"
+    ],
+    "correctAnswer": "Adolf Eichmann"
+  },
+  {
+    "question": "Signed in Washington D.C. in 1959, the Antarctic Treaty System explicitly banned which type of activity on the continent?",
+    "options": [
+      "Commercial tourism",
+      "Military activity and weapons testing",
+      "Scientific research",
+      "Deep-sea fishing near coastlines"
+    ],
+    "correctAnswer": "Military activity and weapons testing"
+  },
+  {
+    "question": "Which ancient Greek philosopher was a prominent Cynic who famously lived in a ceramic tub in the market of Athens and carried a lamp in broad daylight?",
+    "options": [
+      "Diogenes of Sinope",
+      "Antisthenes",
+      "Zeno of Citium",
+      "Pyrrho"
+    ],
+    "correctAnswer": "Diogenes of Sinope"
+  },
+  {
+    "question": "Which 1763 peace treaty ended the global Seven Years' War between Great Britain and France, fundamentally shifting colonial dominance in North America?",
+    "options": [
+      "Treaty of Paris",
+      "Treaty of Aix-la-Chapelle",
+      "Treaty of Hubertsburg",
+      "Treaty of Utrecht"
+    ],
+    "correctAnswer": "Treaty of Paris"
+  },
+  {
+    "question": "Ancient Greek philosopher Epicurus taught that the primary goal of human life is to achieve 'ataraxia', which translates to what state of mind?",
+    "options": [
+      "Untroubled mental tranquility",
+      "Ecstatic sensory pleasure",
+      "Absolute moral perfection",
+      "Universal logical wisdom"
+    ],
+    "correctAnswer": "Untroubled mental tranquility"
+  },
+  {
+    "question": "The Treaty of San Francisco, signed in 1951, officially ended the state of war between Japan and most Allied nations. Which nation refused to sign it?",
+    "options": [
+      "Soviet Union",
+      "United States",
+      "United Kingdom",
+      "Australia"
+    ],
+    "correctAnswer": "Soviet Union"
+  },
+  {
+    "question": "Which Enlightenment philosopher formulated the principle of the separation of political powers in his 1748 work 'The Spirit of the Laws'?",
+    "options": [
+      "Montesquieu",
+      "Voltaire",
+      "Jean-Jacques Rousseau",
+      "Condorcet"
+    ],
+    "correctAnswer": "Montesquieu"
+  },
+  {
+    "question": "Signed in 1915, the secret Treaty of London induced which nation to enter World War I on the side of the Triple Entente?",
+    "options": [
+      "Italy",
+      "Romania",
+      "Greece",
+      "Bulgaria"
+    ],
+    "correctAnswer": "Italy"
+  },
+  {
+    "question": "Which American philosopher and polymath is widely regarded as the principal founder of Pragmatism?",
+    "options": [
+      "Charles Sanders Peirce",
+      "William James",
+      "John Dewey",
+      "George Santayana"
+    ],
+    "correctAnswer": "Charles Sanders Peirce"
+  },
+  {
+    "question": "The 1763 Treaty of Hubertsburg ended the Seven Years' War conflict in Central Europe between which two main combatants?",
+    "options": [
+      "Prussia and Austria",
+      "France and Great Britain",
+      "Russia and Sweden",
+      "Austria and the Ottoman Empire"
+    ],
+    "correctAnswer": "Prussia and Austria"
+  },
+  {
+    "question": "In ancient philosophy, who was the founder of the Stoic school, teaching in Athens around 300 BCE?",
+    "options": [
+      "Zeno of Citium",
+      "Chrysippus",
+      "Epictetus",
+      "Seneca the Younger"
+    ],
+    "correctAnswer": "Zeno of Citium"
+  },
+  {
+    "question": "The Treaty on the Non-Proliferation of Nuclear Weapons (NPT), opened for signature in 1968, recognizes how many states as legitimate Nuclear Weapon States?",
+    "options": [
+      "Five",
+      "Three",
+      "Seven",
+      "Nine"
+    ],
+    "correctAnswer": "Five"
+  },
+  {
+    "question": "Who was the first person to fly solo non-stop across the Atlantic Ocean in 1927?",
+    "options": [
+      "Charles Lindbergh",
+      "Amelia Earhart",
+      "Wiley Post",
+      "Chuck Yeager"
+    ],
+    "correctAnswer": "Charles Lindbergh"
+  },
+  {
+    "question": "What is the longest continuous rail line in the world, spanning over 9,200 kilometers?",
+    "options": [
+      "Trans-Siberian Railway",
+      "Trans-Australian Railway",
+      "Canadian Pacific Railway",
+      "Baikal-Amur Mainline"
+    ],
+    "correctAnswer": "Trans-Siberian Railway"
+  },
+  {
+    "question": "Which Portuguese explorer was the first European to reach India by sea in 1498?",
+    "options": [
+      "Vasco da Gama",
+      "Ferdinand Magellan",
+      "Bartolomeu Dias",
+      "Pedro Álvares Cabral"
+    ],
+    "correctAnswer": "Vasco da Gama"
+  },
+  {
+    "question": "Which supersonic commercial airliner was jointly developed and built by the UK and France?",
+    "options": [
+      "Concorde",
+      "Tupolev Tu-144",
+      "Boeing 2707",
+      "Lockheed L-2000"
+    ],
+    "correctAnswer": "Concorde"
+  },
+  {
+    "question": "In which city was the world's first underground railway system opened in 1863?",
+    "options": [
+      "London",
+      "Paris",
+      "New York",
+      "Budapest"
+    ],
+    "correctAnswer": "London"
+  },
+  {
+    "question": "Which explorer's expedition was the first to successfully circumnavigate the globe between 1519 and 1522?",
+    "options": [
+      "Ferdinand Magellan",
+      "Francis Drake",
+      "James Cook",
+      "Christopher Columbus"
+    ],
+    "correctAnswer": "Ferdinand Magellan"
+  },
+  {
+    "question": "Which aircraft holds the record as the world's largest passenger airliner by volume and capacity?",
+    "options": [
+      "Airbus A380",
+      "Boeing 747-8",
+      "Antonov An-225",
+      "McDonnell Douglas MD-11"
+    ],
+    "correctAnswer": "Airbus A380"
+  },
+  {
+    "question": "Opened in 1869, which artificial waterway connects the Mediterranean Sea directly to the Red Sea?",
+    "options": [
+      "Suez Canal",
+      "Panama Canal",
+      "Kiel Canal",
+      "Corinth Canal"
+    ],
+    "correctAnswer": "Suez Canal"
+  },
+  {
+    "question": "Who led the Norwegian expedition that became the first to reach the South Pole in December 1911?",
+    "options": [
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "Ernest Shackleton",
+      "Douglas Mawson"
+    ],
+    "correctAnswer": "Roald Amundsen"
+  },
+  {
+    "question": "In which location did the Wright brothers make their historic first controlled, sustained powered flights in 1903?",
+    "options": [
+      "Kitty Hawk, North Carolina",
+      "Dayton, Ohio",
+      "Roanoke, Virginia",
+      "Mineola, New York"
+    ],
+    "correctAnswer": "Kitty Hawk, North Carolina"
+  },
+  {
+    "question": "What standard gauge width is used by the majority of the world's railway networks?",
+    "options": [
+      "1,435 mm",
+      "1,000 mm",
+      "1,600 mm",
+      "1,520 mm"
+    ],
+    "correctAnswer": "1,435 mm"
+  },
+  {
+    "question": "Which 14th-century Moroccan scholar and traveler covered over 73,000 miles across Africa, Asia, and Europe?",
+    "options": [
+      "Ibn Battuta",
+      "Al-Biruni",
+      "Ibn Khaldun",
+      "Zheng He"
+    ],
+    "correctAnswer": "Ibn Battuta"
+  },
+  {
+    "question": "What was the world's first commercial jet airliner to enter passenger service, debuting in 1952?",
+    "options": [
+      "de Havilland Comet",
+      "Boeing 707",
+      "Tupolev Tu-104",
+      "Sud Aviation Caravelle"
+    ],
+    "correctAnswer": "de Havilland Comet"
+  },
+  {
+    "question": "Which ocean liner famously sank in the North Atlantic in April 1912 after striking an iceberg?",
+    "options": [
+      "RMS Titanic",
+      "RMS Lusitania",
+      "RMS Britannic",
+      "SS Republic"
+    ],
+    "correctAnswer": "RMS Titanic"
+  },
+  {
+    "question": "Which Norse explorer is widely believed to have reached North America roughly 500 years before Christopher Columbus?",
+    "options": [
+      "Leif Erikson",
+      "Erik the Red",
+      "Harald Hardrada",
+      "Ragnar Lothbrok"
+    ],
+    "correctAnswer": "Leif Erikson"
+  },
+  {
+    "question": "Which American test pilot became the first human to officially break the sound barrier in level flight in 1947?",
+    "options": [
+      "Chuck Yeager",
+      "Scott Crossfield",
+      "Bob Hoover",
+      "John Glenn"
+    ],
+    "correctAnswer": "Chuck Yeager"
+  },
+  {
+    "question": "Located in Norway, what is the length of the Lærdal Tunnel, the world's longest road tunnel?",
+    "options": [
+      "24.5 kilometers",
+      "16.9 kilometers",
+      "32.1 kilometers",
+      "11.6 kilometers"
+    ],
+    "correctAnswer": "24.5 kilometers"
+  },
+  {
+    "question": "Which Chinese admiral commanded massive treasure fleets on seven grand voyages across the Indian Ocean in the early 15th century?",
+    "options": [
+      "Zheng He",
+      "Zhang Qian",
+      "Xuanzang",
+      "Ban Chao"
+    ],
+    "correctAnswer": "Zheng He"
+  },
+  {
+    "question": "Which international airport has consistently ranked among the world's busiest by passenger traffic for several decades?",
+    "options": [
+      "Hartsfield-Jackson Atlanta International Airport",
+      "Dubai International Airport",
+      "Tokyo Haneda Airport",
+      "London Heathrow Airport"
+    ],
+    "correctAnswer": "Hartsfield-Jackson Atlanta International Airport"
+  },
+  {
+    "question": "The Panama Canal links which two oceans?",
+    "options": [
+      "Atlantic Ocean and Pacific Ocean",
+      "Indian Ocean and Atlantic Ocean",
+      "Pacific Ocean and Arctic Ocean",
+      "Southern Ocean and Atlantic Ocean"
+    ],
+    "correctAnswer": "Atlantic Ocean and Pacific Ocean"
+  },
+  {
+    "question": "Who was the first European explorer to encounter and name the Pacific Ocean, calling it 'Mar Pacífico'?",
+    "options": [
+      "Ferdinand Magellan",
+      "Vasco Núñez de Balboa",
+      "Hernán Cortés",
+      "Juan Sebastián Elcano"
+    ],
+    "correctAnswer": "Ferdinand Magellan"
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean, completing the flight in 1932?",
+    "options": [
+      "Amelia Earhart",
+      "Bessie Coleman",
+      "Harriet Quimby",
+      "Amy Johnson"
+    ],
+    "correctAnswer": "Amelia Earhart"
+  },
+  {
+    "question": "What is the commercial high-speed rail line operating the fastest regular service maglev train in the world?",
+    "options": [
+      "Shanghai Maglev",
+      "Chuo Shinkansen",
+      "KTX Eum",
+      "Beijing High-Speed Rail"
+    ],
+    "correctAnswer": "Shanghai Maglev"
+  },
+  {
+    "question": "Which polar explorer commanded the ill-fated Imperial Trans-Antarctic Expedition aboard the ship 'Endurance' in 1914?",
+    "options": [
+      "Ernest Shackleton",
+      "Roald Amundsen",
+      "Robert Falcon Scott",
+      "James Clark Ross"
+    ],
+    "correctAnswer": "Ernest Shackleton"
+  },
+  {
+    "question": "Which German passenger airship caught fire and was destroyed while attempting to dock in Lakehurst, New Jersey, in 1937?",
+    "options": [
+      "LZ 129 Hindenburg",
+      "LZ 127 Graf Zeppelin",
+      "LZ 130 Graf Zeppelin II",
+      "Akron ZRS-4"
+    ],
+    "correctAnswer": "LZ 129 Hindenburg"
+  },
+  {
+    "question": "Which city is served by Arsenalna station, historically recognized as one of the deepest underground metro stations in the world?",
+    "options": [
+      "Kyiv",
+      "Moscow",
+      "St. Petersburg",
+      "Pyongyang"
+    ],
+    "correctAnswer": "Kyiv"
+  },
+  {
+    "question": "Which Venetian merchant wrote a famous travelogue detailing his journey to Asia and his time in the court of Kublai Khan?",
+    "options": [
+      "Marco Polo",
+      "Niccolò de' Conti",
+      "Giovanni da Verrazzano",
+      "John Mandeville"
+    ],
+    "correctAnswer": "Marco Polo"
+  },
+  {
+    "question": "What is the official call sign of any United States Air Force aircraft while it is carrying the President of the United States?",
+    "options": [
+      "Air Force One",
+      "Executive One",
+      "Army One",
+      "Air Force Main"
+    ],
+    "correctAnswer": "Air Force One"
+  },
+  {
+    "question": "Which container port in Asia has maintained its position as the busiest port in the world by TEU cargo volume since 2010?",
+    "options": [
+      "Port of Shanghai",
+      "Port of Singapore",
+      "Port of Ningbo-Zhoushan",
+      "Port of Busan"
+    ],
+    "correctAnswer": "Port of Shanghai"
+  },
+  {
+    "question": "Which Prussian polymath and explorer extensively mapped Latin America between 1799 and 1804, laying foundations for biogeography?",
+    "options": [
+      "Alexander von Humboldt",
+      "Carl Linnaeus",
+      "Aimé Bonpland",
+      "Charles Darwin"
+    ],
+    "correctAnswer": "Alexander von Humboldt"
+  },
+  {
+    "question": "Who was the first human space traveler, orbiting the Earth aboard the Vostok 1 spacecraft in 1961?",
+    "options": [
+      "Yuri Gagarin",
+      "Alan Shepard",
+      "Gherman Titov",
+      "John Glenn"
+    ],
+    "correctAnswer": "Yuri Gagarin"
+  },
+  {
+    "question": "Connecting Europe and Asia across the Dardanelles, which bridge opened in 2022 as the world's longest suspension bridge by main span length?",
+    "options": [
+      "1915 Çanakkale Bridge",
+      "Akashi Kaikyo Bridge",
+      "Yangsigang Yangtze River Bridge",
+      "Storebælt Bridge"
+    ],
+    "correctAnswer": "1915 Çanakkale Bridge"
+  },
+  {
+    "question": "Which British Royal Navy captain mapped New Zealand and the eastern coastline of Australia during his first voyage from 1768 to 1771?",
+    "options": [
+      "James Cook",
+      "William Bligh",
+      "George Vancouver",
+      "Matthew Flinders"
+    ],
+    "correctAnswer": "James Cook"
+  },
+  {
+    "question": "Which twin-engine reconnaissance aircraft holds the official record for the fastest air-breathing manned jet aircraft?",
+    "options": [
+      "Lockheed SR-71 Blackbird",
+      "Mikoyan MiG-25",
+      "Lockheed YF-12",
+      "North American X-15"
+    ],
+    "correctAnswer": "Lockheed SR-71 Blackbird"
+  },
+  {
+    "question": "What is the common Japanese term for the network of high-speed railway lines introduced in 1964 with the opening of the Tokaido line?",
+    "options": [
+      "Shinkansen",
+      "Maglev",
+      "Kintetsu",
+      "Nozomi"
+    ],
+    "correctAnswer": "Shinkansen"
+  },
+  {
+    "question": "Who, along with Sherpa Tenzing Norgay, achieved the first confirmed successful summit of Mount Everest in May 1953?",
+    "options": [
+      "Edmund Hillary",
+      "George Mallory",
+      "Reinhold Messner",
+      "Edward Norton"
+    ],
+    "correctAnswer": "Edmund Hillary"
+  },
+  {
+    "question": "What term refers to the main central structure or body of an aircraft to which the wings and tail assembly are attached?",
+    "options": [
+      "Fuselage",
+      "Nacelle",
+      "Empennage",
+      "Bulkhead"
+    ],
+    "correctAnswer": "Fuselage"
+  },
+  {
+    "question": "Which ocean liner holds the record for the fastest westbound transatlantic crossing, winning the Blue Riband on her maiden voyage in 1952?",
+    "options": [
+      "SS United States",
+      "RMS Queen Mary",
+      "SS Normandie",
+      "RMS Queen Elizabeth 2"
+    ],
+    "correctAnswer": "SS United States"
+  },
+  {
+    "question": "Which French navigator explored the Saint Lawrence River and claimed the surrounding territory for France, naming it Canada?",
+    "options": [
+      "Jacques Cartier",
+      "Samuel de Champlain",
+      "René-Robert Cavelier",
+      "Jean Nicolet"
+    ],
+    "correctAnswer": "Jacques Cartier"
+  },
+  {
+    "question": "Which aerospace company manufactured the iconic 747 wide-body airliner, dubbed 'Queen of the Skies'?",
+    "options": [
+      "Boeing",
+      "Airbus",
+      "Lockheed",
+      "McDonnell Douglas"
+    ],
+    "correctAnswer": "Boeing"
+  },
+  {
+    "question": "Which European country operates the 'Autobahn' highway network, famous for having select sections without blanket speed limits?",
+    "options": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Netherlands"
+    ],
+    "correctAnswer": "Germany"
+  },
+  {
+    "question": "Which Spanish explorer completed the first navigation of the entire length of the Amazon River in 1541–1542?",
+    "options": [
+      "Francisco de Orellana",
+      "Gonzalo Pizarro",
+      "Hernando de Soto",
+      "Álvar Núñez Cabeza de Vaca"
+    ],
+    "correctAnswer": "Francisco de Orellana"
+  },
+  {
+    "question": "In an aircraft flight recorder system, what device records telemetry data such as airspeed, altitude, and heading?",
+    "options": [
+      "Flight Data Recorder",
+      "Cockpit Voice Recorder",
+      "Transponder",
+      "Emergency Locator Transmitter"
+    ],
+    "correctAnswer": "Flight Data Recorder"
+  },
+  {
+    "question": "Which city is home to the Millennium Underground Railway (Line M1), the oldest electrified underground metro in Continental Europe?",
+    "options": [
+      "Budapest",
+      "Berlin",
+      "Paris",
+      "Vienna"
+    ],
+    "correctAnswer": "Budapest"
+  },
+  {
+    "question": "Who was the first person in history to reach both the North and South Geographic Poles?",
+    "options": [
+      "Roald Amundsen",
+      "Robert Peary",
+      "Richard E. Byrd",
+      "Fridtjof Nansen"
+    ],
+    "correctAnswer": "Roald Amundsen"
+  },
+  {
+    "question": "Which legendary Lockheed Advanced Development Programs department designed famous military planes like the U-2, SR-71, and F-117?",
+    "options": [
+      "Skunk Works",
+      "Phantom Works",
+      "Skunk Division",
+      "Advanced Projects Agency"
+    ],
+    "correctAnswer": "Skunk Works"
+  },
+  {
+    "question": "What network of roads stretches across North and South America, covering approximately 30,000 kilometers from Alaska to Argentina?",
+    "options": [
+      "Pan-American Highway",
+      "Trans-Canada Highway",
+      "Interstate Highway System",
+      "Route 66"
+    ],
+    "correctAnswer": "Pan-American Highway"
+  },
+  {
+    "question": "Which Scottish missionary and explorer famously searched for the source of the Nile and named Victoria Falls in honor of the British Queen?",
+    "options": [
+      "David Livingstone",
+      "Henry Morton Stanley",
+      "Richard Francis Burton",
+      "John Hanning Speke"
+    ],
+    "correctAnswer": "David Livingstone"
+  },
+  {
+    "question": "Which human-powered aircraft, piloted by Bryan Allen in 1979, successfully flew across the English Channel?",
+    "options": [
+      "Gossamer Albatross",
+      "Gossamer Condor",
+      "MIT Daedalus",
+      "Solar Impulse"
+    ],
+    "correctAnswer": "Gossamer Albatross"
+  },
+  {
+    "question": "In what year did Henry Ford introduce the Model T, dramatically revolutionizing mass transit and automotive assembly line manufacturing?",
+    "options": [
+      "1908",
+      "1903",
+      "1913",
+      "1920"
+    ],
+    "correctAnswer": "1908"
+  },
+  {
+    "question": "Who was the first person to win two Nobel Prizes in two different scientific fields?",
+    "options": [
+      "Marie Curie",
+      "Linus Pauling",
+      "John Bardeen",
+      "Frederick Sanger"
+    ],
+    "correctAnswer": "Marie Curie"
+  },
+  {
+    "question": "Albert Einstein was awarded the 1921 Nobel Prize in Physics primarily for his discovery of which law or effect?",
+    "options": [
+      "Theory of General Relativity",
+      "Law of the Photoelectric Effect",
+      "Theory of Special Relativity",
+      "Brownian Motion Law"
+    ],
+    "correctAnswer": "Law of the Photoelectric Effect"
+  },
+  {
+    "question": "Who is the only scientist to have been awarded two Nobel Prizes in Physics?",
+    "options": [
+      "Niels Bohr",
+      "John Bardeen",
+      "Richard Feynman",
+      "Max Planck"
+    ],
+    "correctAnswer": "John Bardeen"
+  },
+  {
+    "question": "Which scientist won the Nobel Prize in Chemistry in 1908 for his investigations into the disintegration of the elements and the chemistry of radioactive substances?",
+    "options": [
+      "Ernest Rutherford",
+      "J.J. Thomson",
+      "Niels Bohr",
+      "James Chadwick"
+    ],
+    "correctAnswer": "Ernest Rutherford"
+  },
+  {
+    "question": "Who received the 1901 Nobel Prize in Physics for discovering X-rays?",
+    "options": [
+      "Henri Becquerel",
+      "Wilhelm Röntgen",
+      "Max von Laue",
+      "Heinrich Hertz"
+    ],
+    "correctAnswer": "Wilhelm Röntgen"
+  },
+  {
+    "question": "Which scientist was awarded the Nobel Prize in Chemistry twice, first for protein structure (insulin) and second for DNA sequencing?",
+    "options": [
+      "Linus Pauling",
+      "Kary Mullis",
+      "Frederick Sanger",
+      "Venki Ramakrishnan"
+    ],
+    "correctAnswer": "Frederick Sanger"
+  },
+  {
+    "question": "Who received the Nobel Prize in Physiology or Medicine in 1983 for her discovery of mobile genetic elements, also known as transposons or jumping genes?",
+    "options": [
+      "Rosalind Franklin",
+      "Barbara McClintock",
+      "Rita Levi-Montalcini",
+      "Gerty Cori"
+    ],
+    "correctAnswer": "Barbara McClintock"
+  },
+  {
+    "question": "Who is the only person to win two unshared Nobel Prizes (Chemistry in 1954 and Peace in 1962)?",
+    "options": [
+      "Linus Pauling",
+      "Marie Curie",
+      "Albert Schweitzer",
+      "Norman Borlaug"
+    ],
+    "correctAnswer": "Linus Pauling"
+  },
+  {
+    "question": "The 2020 Nobel Prize in Chemistry was awarded to Jennifer Doudna and Emmanuelle Charpentier for the development of which revolutionary gene-editing technology?",
+    "options": [
+      "TALENs",
+      "Zinc Finger Nucleases",
+      "CRISPR-Cas9",
+      "Sanger Sequencing"
+    ],
+    "correctAnswer": "CRISPR-Cas9"
+  },
+  {
+    "question": "Which Chinese scientist was co-awarded the 2015 Nobel Prize in Physiology or Medicine for discovering artemisinin, a crucial treatment for malaria?",
+    "options": [
+      "Tu Youyou",
+      "Chen Ning Yang",
+      "Tsung-Dao Lee",
+      "Shi Zhengli"
+    ],
+    "correctAnswer": "Tu Youyou"
+  },
+  {
+    "question": "C. V. Raman was awarded the 1930 Nobel Prize in Physics for his work on which optical phenomenon?",
+    "options": [
+      "Light Polarization",
+      "Scattering of Light",
+      "Total Internal Reflection",
+      "Thin-film Interference"
+    ],
+    "correctAnswer": "Scattering of Light"
+  },
+  {
+    "question": "Dorothy Hodgkin won the 1964 Nobel Prize in Chemistry for using which scientific technique to determine the structures of important biochemical substances like Vitamin B12 and penicillin?",
+    "options": [
+      "Nuclear Magnetic Resonance",
+      "X-ray Crystallography",
+      "Cryo-Electron Microscopy",
+      "Mass Spectrometry"
+    ],
+    "correctAnswer": "X-ray Crystallography"
+  },
+  {
+    "question": "Who won the 1922 Nobel Prize in Physics for his foundational work on atomic structure and quantum theory?",
+    "options": [
+      "Niels Bohr",
+      "Werner Heisenberg",
+      "Erwin Schrödinger",
+      "Louis de Broglie"
+    ],
+    "correctAnswer": "Niels Bohr"
+  },
+  {
+    "question": "Subrahmanyan Chandrasekhar was awarded the 1983 Nobel Prize in Physics for theoretical studies of which physical processes?",
+    "options": [
+      "Bose-Einstein Condensation",
+      "Structure and Evolution of Stars",
+      "Superconductivity",
+      "Cosmic Microwave Background"
+    ],
+    "correctAnswer": "Structure and Evolution of Stars"
+  },
+  {
+    "question": "Who was awarded the first Nobel Prize in Physiology or Medicine in 1901 for his work on serum therapy against diphtheria?",
+    "options": [
+      "Robert Koch",
+      "Emil von Behring",
+      "Paul Ehrlich",
+      "Ilya Mechnikov"
+    ],
+    "correctAnswer": "Emil von Behring"
+  },
+  {
+    "question": "Which scientist received the 1904 Nobel Prize in Physiology or Medicine for work on the physiology of digestion, leading to famous principles of classical conditioning?",
+    "options": [
+      "Ivan Pavlov",
+      "Sigmund Freud",
+      "Camillo Golgi",
+      "Santiago Ramón y Cajal"
+    ],
+    "correctAnswer": "Ivan Pavlov"
+  },
+  {
+    "question": "Svante Pääbo won the 2022 Nobel Prize in Physiology or Medicine for discoveries concerning the genomes of extinct hominins and human evolution, specifically sequencing the genome of which extinct species?",
+    "options": [
+      "Homo erectus",
+      "Neanderthal",
+      "Australopithecus",
+      "Homo habilis"
+    ],
+    "correctAnswer": "Neanderthal"
+  },
+  {
+    "question": "Who was awarded the 1938 Nobel Prize in Physics for demonstrating the existence of new radioactive elements produced by neutron irradiation?",
+    "options": [
+      "Enrico Fermi",
+      "Otto Hahn",
+      "Lise Meitner",
+      "J. Robert Oppenheimer"
+    ],
+    "correctAnswer": "Enrico Fermi"
+  },
+  {
+    "question": "Which chemist won the 1918 Nobel Prize in Chemistry for synthesizing ammonia directly from its elements, crucial for fertilizer production?",
+    "options": [
+      "Fritz Haber",
+      "Carl Bosch",
+      "Wilhelm Ostwald",
+      "Walther Nernst"
+    ],
+    "correctAnswer": "Fritz Haber"
+  },
+  {
+    "question": "Katalin Karikó and Drew Weissman were awarded the 2023 Nobel Prize in Physiology or Medicine for discoveries regarding nucleoside base modifications that enabled the development of effective vaccines against COVID-19 using what technology?",
+    "options": [
+      "Viral Vector",
+      "mRNA",
+      "Inactivated Virus",
+      "Protein Subunit"
+    ],
+    "correctAnswer": "mRNA"
+  },
+  {
+    "question": "Who won the 1918 Nobel Prize in Physics for his discovery of energy quanta, marking the birth of quantum theory?",
+    "options": [
+      "Max Planck",
+      "Albert Einstein",
+      "Louis de Broglie",
+      "Max Born"
+    ],
+    "correctAnswer": "Max Planck"
+  },
+  {
+    "question": "Which physicist was awarded the 1932 Nobel Prize in Physics for the creation of quantum mechanics, famous for his Uncertainty Principle?",
+    "options": [
+      "Werner Heisenberg",
+      "Erwin Schrödinger",
+      "Wolfgang Pauli",
+      "Paul Dirac"
+    ],
+    "correctAnswer": "Werner Heisenberg"
+  },
+  {
+    "question": "Who predicted the existence of antimatter (specifically the positron) using a relativistic wave equation, earning the 1933 Nobel Prize in Physics alongside Erwin Schrödinger?",
+    "options": [
+      "Paul Dirac",
+      "Max Born",
+      "Wolfgang Pauli",
+      "Enrico Fermi"
+    ],
+    "correctAnswer": "Paul Dirac"
+  },
+  {
+    "question": "Which Scottish theoretical physicist shared the 2013 Nobel Prize in Physics after the discovery at CERN of a fundamental particle that imparts mass to other particles?",
+    "options": [
+      "Peter Higgs",
+      "François Englert",
+      "Carl Hagen",
+      "Tom Kibble"
+    ],
+    "correctAnswer": "Peter Higgs"
+  },
+  {
+    "question": "Who discovered penicillin in 1928, leading to a shared Nobel Prize in Physiology or Medicine in 1945?",
+    "options": [
+      "Alexander Fleming",
+      "Howard Florey",
+      "Ernst Chain",
+      "Edward Jenner"
+    ],
+    "correctAnswer": "Alexander Fleming"
+  },
+  {
+    "question": "Santiago Ramón y Cajal and Camillo Golgi jointly won the 1906 Nobel Prize in Physiology or Medicine for their work on the structure of which body system?",
+    "options": [
+      "Nervous System",
+      "Circulatory System",
+      "Immune System",
+      "Digestive System"
+    ],
+    "correctAnswer": "Nervous System"
+  },
+  {
+    "question": "Who discovered human blood groups (the ABO system) and received the 1930 Nobel Prize in Physiology or Medicine?",
+    "options": [
+      "Karl Landsteiner",
+      "Charles Richet",
+      "Alexis Carrel",
+      "Jules Bordet"
+    ],
+    "correctAnswer": "Karl Landsteiner"
+  },
+  {
+    "question": "Which Japanese physicist became the first Japanese Nobel laureate in 1949 after predicting the existence of mesons?",
+    "options": [
+      "Hideki Yukawa",
+      "Sin-Itiro Tomonaga",
+      "Leo Esaki",
+      "Makoto Kobayashi"
+    ],
+    "correctAnswer": "Hideki Yukawa"
+  },
+  {
+    "question": "Ahmed Zewail was awarded the 1999 Nobel Prize in Chemistry for his pioneering work in which field studying chemical reactions on ultra-short timescales?",
+    "options": [
+      "Femtochemistry",
+      "Electrochemistry",
+      "Thermochemistry",
+      "Photochemistry"
+    ],
+    "correctAnswer": "Femtochemistry"
+  },
+  {
+    "question": "Mario Molina, F. Sherwood Rowland, and Paul Crutzen received the 1995 Nobel Prize in Chemistry for work concerning the formation and decomposition of what environmental layer?",
+    "options": [
+      "Ozone Layer",
+      "Ionosphere",
+      "Troposphere",
+      "Lithosphere"
+    ],
+    "correctAnswer": "Ozone Layer"
+  },
+  {
+    "question": "Who was the first American woman to win a Nobel Prize in Physiology or Medicine (in 1947) for her discovery of the course of the catalytic conversion of glycogen?",
+    "options": [
+      "Gerty Cori",
+      "Rosalyn Yalow",
+      "Barbara McClintock",
+      "Linda B. Buck"
+    ],
+    "correctAnswer": "Gerty Cori"
+  },
+  {
+    "question": "Rita Levi-Montalcini shared the 1986 Nobel Prize in Physiology or Medicine for discovering what protein that stimulates cell growth and survival?",
+    "options": [
+      "Nerve Growth Factor",
+      "Epidermal Growth Factor",
+      "Insulin-like Growth Factor",
+      "Platelet-Derived Growth Factor"
+    ],
+    "correctAnswer": "Nerve Growth Factor"
+  },
+  {
+    "question": "Guglielmo Marconi and Karl Ferdinand Braun were awarded the 1909 Nobel Prize in Physics for their contributions to the development of what?",
+    "options": [
+      "Wireless Telegraphy",
+      "Electron Microscopy",
+      "Radar Technology",
+      "Fiber Optics"
+    ],
+    "correctAnswer": "Wireless Telegraphy"
+  },
+  {
+    "question": "Arthur Ashkin was awarded half of the 2018 Nobel Prize in Physics for inventing which tool that uses light to manipulate biological objects?",
+    "options": [
+      "Optical Tweezers",
+      "Super-resolution Microscopy",
+      "Chirped Pulse Amplification",
+      "Atomic Force Microscopy"
+    ],
+    "correctAnswer": "Optical Tweezers"
+  },
+  {
+    "question": "Robert Koch was awarded the 1905 Nobel Prize in Physiology or Medicine for his investigations and discoveries in relation to which infectious disease?",
+    "options": [
+      "Tuberculosis",
+      "Cholera",
+      "Anthrax",
+      "Malaria"
+    ],
+    "correctAnswer": "Tuberculosis"
+  },
+  {
+    "question": "Who won the Nobel Prize in Physics in 1903 alongside Pierre and Marie Curie for his discovery of spontaneous radioactivity?",
+    "options": [
+      "Henri Becquerel",
+      "Ernest Rutherford",
+      "J.J. Thomson",
+      "Max von Laue"
+    ],
+    "correctAnswer": "Henri Becquerel"
+  },
+  {
+    "question": "J.J. Thomson received the 1906 Nobel Prize in Physics for his theoretical and experimental investigations on the conduction of electricity by gases, which led to the discovery of which subatomic particle?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Positron"
+    ],
+    "correctAnswer": "Electron"
+  },
+  {
+    "question": "James Chadwick was awarded the 1935 Nobel Prize in Physics for the discovery of which subatomic particle?",
+    "options": [
+      "Neutron",
+      "Proton",
+      "Electron",
+      "Neutrino"
+    ],
+    "correctAnswer": "Neutron"
+  },
+  {
+    "question": "Which scientist won the 1915 Nobel Prize in Physics jointly with his son Lawrence Bragg for their services in the analysis of crystal structure by means of X-rays?",
+    "options": [
+      "William Henry Bragg",
+      "Max Planck",
+      "Wilhelm Röntgen",
+      "Charles Glover Barkla"
+    ],
+    "correctAnswer": "William Henry Bragg"
+  },
+  {
+    "question": "Syukuro Manabe and Klaus Hasselmann were awarded half of the 2021 Nobel Prize in Physics for their groundbreaking work on what topic?",
+    "options": [
+      "Physical modeling of Earth's climate",
+      "Gravitational wave detection",
+      "Exoplanet discovery",
+      "Laser physics"
+    ],
+    "correctAnswer": "Physical modeling of Earth's climate"
+  },
+  {
+    "question": "Kary Mullis won the 1993 Nobel Prize in Chemistry for inventing which biochemical technique used to amplify specific DNA sequences?",
+    "options": [
+      "Polymerase Chain Reaction (PCR)",
+      "Gel Electrophoresis",
+      "Sanger Sequencing",
+      "Mass Spectrometry"
+    ],
+    "correctAnswer": "Polymerase Chain Reaction (PCR)"
+  },
+  {
+    "question": "Who was awarded the 2020 Nobel Prize in Physics for the discovery that black hole formation is a robust prediction of the general theory of relativity?",
+    "options": [
+      "Roger Penrose",
+      "Reinhard Genzel",
+      "Andrea Ghez",
+      "Kip Thorne"
+    ],
+    "correctAnswer": "Roger Penrose"
+  },
+  {
+    "question": "Fritz Pregl received the 1923 Nobel Prize in Chemistry for his invention of what method of organic substance analysis?",
+    "options": [
+      "Quantitative Organic Microanalysis",
+      "Gas Chromatography",
+      "Mass Spectrometry",
+      "Infrared Spectroscopy"
+    ],
+    "correctAnswer": "Quantitative Organic Microanalysis"
+  },
+  {
+    "question": "Which scientist was awarded the 1974 Nobel Prize in Physics along with Antony Hewish for their pioneering research in radio astrophysics, despite controversy over the exclusion of Jocelyn Bell Burnell?",
+    "options": [
+      "Martin Ryle",
+      "Fred Hoyle",
+      "Arno Penzias",
+      "Robert Wilson"
+    ],
+    "correctAnswer": "Martin Ryle"
+  },
+  {
+    "question": "Who won the 1933 Nobel Prize in Physics jointly with Paul Dirac for the discovery of new productive forms of atomic theory, famous for his wave equation?",
+    "options": [
+      "Erwin Schrödinger",
+      "Louis de Broglie",
+      "Wolfgang Pauli",
+      "Max Born"
+    ],
+    "correctAnswer": "Erwin Schrödinger"
+  },
+  {
+    "question": "Which female physicist was posthumously honored with chemical element 109 named Meitnerium, though she was famously overlooked for the Nobel Prize for co-discovering nuclear fission?",
+    "options": [
+      "Lise Meitner",
+      "Chien-Shiung Wu",
+      "Rosalind Franklin",
+      "Vera Rubin"
+    ],
+    "correctAnswer": "Lise Meitner"
+  },
+  {
+    "question": "Who received the 1901 Nobel Prize in Chemistry, the very first one awarded, for his discovery of the laws of chemical dynamics and osmotic pressure?",
+    "options": [
+      "Jacobus Henricus van 't Hoff",
+      "Svante Arrhenius",
+      "Emil Fischer",
+      "Wilhelm Ostwald"
+    ],
+    "correctAnswer": "Jacobus Henricus van 't Hoff"
+  },
+  {
+    "question": "William Shockley, John Bardeen, and Walter Brattain shared the 1956 Nobel Prize in Physics for their research on semiconductors and discovery of what device?",
+    "options": [
+      "Transistor",
+      "Integrated Circuit",
+      "Light-Emitting Diode",
+      "Solar Cell"
+    ],
+    "correctAnswer": "Transistor"
+  },
+  {
+    "question": "Who won the 1929 Nobel Prize in Physics for discovering the wave nature of electrons, known as wave-particle duality?",
+    "options": [
+      "Louis de Broglie",
+      "Clinton Davisson",
+      "George Paget Thomson",
+      "Arthur Compton"
+    ],
+    "correctAnswer": "Louis de Broglie"
+  },
+  {
+    "question": "Which chemist was awarded the 1903 Nobel Prize in Chemistry for his electrolytic theory of dissociation?",
+    "options": [
+      "Svante Arrhenius",
+      "Jacobus Henricus van 't Hoff",
+      "Emil Fischer",
+      "William Ramsay"
+    ],
+    "correctAnswer": "Svante Arrhenius"
+  },
+  {
+    "question": "Which scale is used to measure the relative hardness of minerals?",
+    "options": [
+      "Mohs scale",
+      "Richter scale",
+      "Volcanic Explosivity Index",
+      "Beaufort scale"
+    ],
+    "correctAnswer": "Mohs scale"
+  },
+  {
+    "question": "Which type of tectonic boundary created the Mid-Atlantic Ridge?",
+    "options": [
+      "Divergent boundary",
+      "Convergent boundary",
+      "Transform boundary",
+      "Subduction zone"
+    ],
+    "correctAnswer": "Divergent boundary"
+  },
+  {
+    "question": "What metamorphic rock is formed from the metamorphism of limestone?",
+    "options": [
+      "Marble",
+      "Slate",
+      "Quartzite",
+      "Gneiss"
+    ],
+    "correctAnswer": "Marble"
+  },
+  {
+    "question": "What is the most abundant chemical element in Earth's crust by mass?",
+    "options": [
+      "Oxygen",
+      "Silicon",
+      "Aluminum",
+      "Iron"
+    ],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "question": "Which type of volcanic eruption features fluid basaltic lava with non-explosive or weakly explosive activity?",
+    "options": [
+      "Hawaiian",
+      "Plinian",
+      "Strombolian",
+      "Vulcanian"
+    ],
+    "correctAnswer": "Hawaiian"
+  },
+  {
+    "question": "What seismic boundary separates Earth's crust from the underlying mantle?",
+    "options": [
+      "Mohorovicic discontinuity",
+      "Gutenberg discontinuity",
+      "Lehmann discontinuity",
+      "Conrad discontinuity"
+    ],
+    "correctAnswer": "Mohorovicic discontinuity"
+  },
+  {
+    "question": "What type of rock is formed through the cooling and solidification of molten rock?",
+    "options": [
+      "Igneous",
+      "Sedimentary",
+      "Metamorphic",
+      "Mineraloid"
+    ],
+    "correctAnswer": "Igneous"
+  },
+  {
+    "question": "Which geological epoch began roughly 11,700 years ago following the last glacial period?",
+    "options": [
+      "Holocene",
+      "Pleistocene",
+      "Pliocene",
+      "Miocene"
+    ],
+    "correctAnswer": "Holocene"
+  },
+  {
+    "question": "What landscape feature is produced by the dissolution of soluble rocks like limestone and dolomite?",
+    "options": [
+      "Karst topography",
+      "Drumlins",
+      "Eskers",
+      "Moraines"
+    ],
+    "correctAnswer": "Karst topography"
+  },
+  {
+    "question": "Which mineral defines the maximum value of 10 on the Mohs hardness scale?",
+    "options": [
+      "Diamond",
+      "Corundum",
+      "Topaz",
+      "Quartz"
+    ],
+    "correctAnswer": "Diamond"
+  },
+  {
+    "question": "Which type of geological fault occurs when the hanging wall moves downward relative to the footwall?",
+    "options": [
+      "Normal fault",
+      "Reverse fault",
+      "Strike-slip fault",
+      "Thrust fault"
+    ],
+    "correctAnswer": "Normal fault"
+  },
+  {
+    "question": "What is the primary mineral component found in natural limestone?",
+    "options": [
+      "Calcite",
+      "Quartz",
+      "Feldspar",
+      "Mica"
+    ],
+    "correctAnswer": "Calcite"
+  },
+  {
+    "question": "Which oceanic trench contains the deepest point in Earth's oceans?",
+    "options": [
+      "Mariana Trench",
+      "Puerto Rico Trench",
+      "Java Trench",
+      "Tonga Trench"
+    ],
+    "correctAnswer": "Mariana Trench"
+  },
+  {
+    "question": "Which supercontinent assembled during the late Paleozoic era and began breaking apart in the Mesozoic era?",
+    "options": [
+      "Pangaea",
+      "Rodinia",
+      "Gondwana",
+      "Laurasia"
+    ],
+    "correctAnswer": "Pangaea"
+  },
+  {
+    "question": "Which radioactive isotope is standardly used to date organic materials up to approximately 50,000 years old?",
+    "options": [
+      "Carbon-14",
+      "Potassium-40",
+      "Uranium-238",
+      "Thorium-230"
+    ],
+    "correctAnswer": "Carbon-14"
+  },
+  {
+    "question": "What is the term for an elongated, teardrop-shaped hill formed by glacial movement?",
+    "options": [
+      "Drumlin",
+      "Kame",
+      "Esker",
+      "Roche moutonnee"
+    ],
+    "correctAnswer": "Drumlin"
+  },
+  {
+    "question": "Which biome is defined by low temperatures, low precipitation, and a layer of permanently frozen subsoil?",
+    "options": [
+      "Tundra",
+      "Taiga",
+      "Temperate forest",
+      "Savanna"
+    ],
+    "correctAnswer": "Tundra"
+  },
+  {
+    "question": "What term describes a species whose presence and role disproportionately affects the structure of an entire ecosystem?",
+    "options": [
+      "Keystone species",
+      "Indicator species",
+      "Umbrella species",
+      "Foundation species"
+    ],
+    "correctAnswer": "Keystone species"
+  },
+  {
+    "question": "According to the ecological rule of thumb, approximately what percentage of energy is passed to the next trophic level?",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "70%"
+    ],
+    "correctAnswer": "10%"
+  },
+  {
+    "question": "Which type of ecological interaction benefits one organism while leaving the other unaffected?",
+    "options": [
+      "Commensalism",
+      "Mutualism",
+      "Parasitism",
+      "Amensalism"
+    ],
+    "correctAnswer": "Commensalism"
+  },
+  {
+    "question": "Which process converts atmospheric nitrogen gas into ammonia or related nitrogenous compounds usable by plants?",
+    "options": [
+      "Nitrogen fixation",
+      "Nitrification",
+      "Denitrification",
+      "Ammonification"
+    ],
+    "correctAnswer": "Nitrogen fixation"
+  },
+  {
+    "question": "Which biome, also called boreal forest, consists mostly of cone-bearing evergreen trees?",
+    "options": [
+      "Taiga",
+      "Chaparral",
+      "Temperate deciduous forest",
+      "Steppe"
+    ],
+    "correctAnswer": "Taiga"
+  },
+  {
+    "question": "What term describes ecological re-colonization in an area where a disturbance has cleared vegetation but left intact soil?",
+    "options": [
+      "Secondary succession",
+      "Primary succession",
+      "Climax community",
+      "Pioneer succession"
+    ],
+    "correctAnswer": "Secondary succession"
+  },
+  {
+    "question": "Which classification of organisms produces organic compounds from solar energy or inorganic sources?",
+    "options": [
+      "Autotrophs",
+      "Heterotrophs",
+      "Saprotrophs",
+      "Apex predators"
+    ],
+    "correctAnswer": "Autotrophs"
+  },
+  {
+    "question": "Which upper layer of a body of water receives sufficient sunlight to enable photosynthesis?",
+    "options": [
+      "Photic zone",
+      "Aphotic zone",
+      "Benthic zone",
+      "Abyssal zone"
+    ],
+    "correctAnswer": "Photic zone"
+  },
+  {
+    "question": "What is the primary driver of cultural eutrophication in aquatic ecosystems?",
+    "options": [
+      "Excessive nutrient runoff",
+      "Heavy metal accumulation",
+      "Thermal pollution",
+      "Acid rain deposition"
+    ],
+    "correctAnswer": "Excessive nutrient runoff"
+  },
+  {
+    "question": "Which term defines the total mass of living biological organisms in a given area or ecosystem at a given time?",
+    "options": [
+      "Biomass",
+      "Carrying capacity",
+      "Net primary productivity",
+      "Ecological footprint"
+    ],
+    "correctAnswer": "Biomass"
+  },
+  {
+    "question": "What principle states that two species competing for the exact same limited resource cannot coexist at constant population values?",
+    "options": [
+      "Competitive exclusion",
+      "Resource partitioning",
+      "Character displacement",
+      "Apparent competition"
+    ],
+    "correctAnswer": "Competitive exclusion"
+  },
+  {
+    "question": "Which marine ecosystem is formed by colonies of invertebrates that secrete calcium carbonate skeletons?",
+    "options": [
+      "Coral reef",
+      "Estuary",
+      "Hydrothermal vent",
+      "Kelp forest"
+    ],
+    "correctAnswer": "Coral reef"
+  },
+  {
+    "question": "What term describes species that are unique to a defined geographic location and found nowhere else naturally?",
+    "options": [
+      "Endemic species",
+      "Invasive species",
+      "Exotic species",
+      "Cosmopolitan species"
+    ],
+    "correctAnswer": "Endemic species"
+  },
+  {
+    "question": "Which atmospheric layer contains the highest concentration of Earth's protective ozone?",
+    "options": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correctAnswer": "Stratosphere"
+  },
+  {
+    "question": "Which 1987 international treaty was created to phase out substances responsible for ozone depletion?",
+    "options": [
+      "Montreal Protocol",
+      "Kyoto Protocol",
+      "Paris Agreement",
+      "Basel Convention"
+    ],
+    "correctAnswer": "Montreal Protocol"
+  },
+  {
+    "question": "Which gas accounts for the largest share of human-driven greenhouse gas emissions by volume?",
+    "options": [
+      "Carbon dioxide",
+      "Methane",
+      "Nitrous oxide",
+      "Chlorofluorocarbons"
+    ],
+    "correctAnswer": "Carbon dioxide"
+  },
+  {
+    "question": "What process occurs when elevated atmospheric carbon dioxide dissolves in ocean water, lowering its pH?",
+    "options": [
+      "Ocean acidification",
+      "Ocean thermal expansion",
+      "Eutrophication",
+      "Marine hypoxia"
+    ],
+    "correctAnswer": "Ocean acidification"
+  },
+  {
+    "question": "Which energy source harnesses thermal energy generated and stored beneath the Earth's surface?",
+    "options": [
+      "Geothermal energy",
+      "Biomass energy",
+      "Hydroelectric power",
+      "Solar thermal power"
+    ],
+    "correctAnswer": "Geothermal energy"
+  },
+  {
+    "question": "Which synthetic chemical compounds were historically used in refrigeration before being phased out to protect the ozone layer?",
+    "options": [
+      "Chlorofluorocarbons",
+      "Volatile organic compounds",
+      "Polycyclic aromatic hydrocarbons",
+      "Nitrogen oxides"
+    ],
+    "correctAnswer": "Chlorofluorocarbons"
+  },
+  {
+    "question": "Which atmospheric emissions are the primary chemical causes of acid rain?",
+    "options": [
+      "Sulfur dioxide and nitrogen oxides",
+      "Carbon monoxide and methane",
+      "Particulate matter and ozone",
+      "CFCs and carbon dioxide"
+    ],
+    "correctAnswer": "Sulfur dioxide and nitrogen oxides"
+  },
+  {
+    "question": "Which metric quantifies human demand on nature by comparing resource consumption to ecological capacity?",
+    "options": [
+      "Ecological footprint",
+      "Carbon intensity",
+      "Life cycle assessment",
+      "Biocapacity deficit"
+    ],
+    "correctAnswer": "Ecological footprint"
+  },
+  {
+    "question": "Which global climate treaty adopted in 2015 aims to limit global warming to well below 2 degrees Celsius relative to pre-industrial levels?",
+    "options": [
+      "Paris Agreement",
+      "Kyoto Protocol",
+      "Copenhagen Accord",
+      "Stockholm Declaration"
+    ],
+    "correctAnswer": "Paris Agreement"
+  },
+  {
+    "question": "What term refers to low dissolved oxygen levels in aquatic environments that create environmental dead zones?",
+    "options": [
+      "Hypoxia",
+      "Hyperoxia",
+      "Salinification",
+      "Desertification"
+    ],
+    "correctAnswer": "Hypoxia"
+  },
+  {
+    "question": "What process describes the buildup of contaminants in an individual organism over its lifespan?",
+    "options": [
+      "Bioaccumulation",
+      "Biomagnification",
+      "Eutrophication",
+      "Bioremediation"
+    ],
+    "correctAnswer": "Bioaccumulation"
+  },
+  {
+    "question": "Which mineral has a assigned hardness value of 1 on the Mohs scale?",
+    "options": [
+      "Talc",
+      "Gypsum",
+      "Calcite",
+      "Fluorite"
+    ],
+    "correctAnswer": "Talc"
+  },
+  {
+    "question": "What type of plate boundary is the San Andreas Fault in California?",
+    "options": [
+      "Transform boundary",
+      "Divergent boundary",
+      "Convergent boundary",
+      "Subduction boundary"
+    ],
+    "correctAnswer": "Transform boundary"
+  },
+  {
+    "question": "Unlike carbon and nitrogen cycles, which biogeochemical cycle relies mainly on rock weathering rather than an atmospheric phase?",
+    "options": [
+      "Phosphorus cycle",
+      "Carbon cycle",
+      "Nitrogen cycle",
+      "Water cycle"
+    ],
+    "correctAnswer": "Phosphorus cycle"
+  },
+  {
+    "question": "What environmental technology uses living organisms like microorganisms or plants to remove pollutants from soil or water?",
+    "options": [
+      "Bioremediation",
+      "Biomagnification",
+      "Bioaccumulation",
+      "Eutrophication"
+    ],
+    "correctAnswer": "Bioremediation"
+  },
+  {
+    "question": "Which dark, fine-grained igneous rock forms the vast majority of Earth's oceanic crust?",
+    "options": [
+      "Basalt",
+      "Granite",
+      "Obsidian",
+      "Rhyolite"
+    ],
+    "correctAnswer": "Basalt"
+  },
+  {
+    "question": "Which coarse-grained intrusive igneous rock makes up much of the continental crust?",
+    "options": [
+      "Granite",
+      "Basalt",
+      "Gabbro",
+      "Peridotite"
+    ],
+    "correctAnswer": "Granite"
+  },
+  {
+    "question": "What is the maximum population size of a species that a specific environment can sustainably support?",
+    "options": [
+      "Carrying capacity",
+      "Biotic potential",
+      "Critical mass",
+      "Trophic capacity"
+    ],
+    "correctAnswer": "Carrying capacity"
+  },
+  {
+    "question": "Which greenhouse gas is released in massive quantities by thawing Arctic permafrost, potentially worsening warming trends?",
+    "options": [
+      "Methane",
+      "Argon",
+      "Ozone",
+      "Helium"
+    ],
+    "correctAnswer": "Methane"
+  },
+  {
+    "question": "What quantity measures the total energy released at the source of an earthquake?",
+    "options": [
+      "Magnitude",
+      "Intensity",
+      "Frequency",
+      "Acceleration"
+    ],
+    "correctAnswer": "Magnitude"
+  }
+]
